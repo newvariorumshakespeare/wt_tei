@@ -1415,7 +1415,7 @@
 <app><lem>do’s</lem>] <appPart><rdg type="replace">doth</rdg> <wit><siglum>v1803</siglum>&sigrange;<siglum rend="smcaps">col2</siglum> (&minus;<siglum rend="smcaps">knt2</siglum>), <siglum rend="smcaps">wh1</siglum>&sigrange;<siglum rend="smcaps">del2</siglum>, <siglum rend="smcaps">del4</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_394" target="#tln_1124"><label>1124</label>
-<app><lem><hi rend="italic">Exit</hi></lem>] <appPart><rdgDesc><rdg type="insert">Ad. <hi rend="italic">with the Child</hi></rdg></rdgDesc> <wit><siglum rend="smcaps">rowe1</siglum> &plus; (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
+<app><lem><hi rend="italic">Exit</hi></lem>] <appPart><rdgDesc>Ad. <rdg type="insert"><hi rend="italic">with the Child</hi></rdg></rdgDesc> <wit><siglum rend="smcaps">rowe1</siglum> &plus; (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_395" target="#tln_1126" targetEnd="#tln_1127"><label>1126–7</label>
 <app><appPart><rdgDesc><hi rend="italic">One verse line</hi></rdgDesc> <wit><siglum>m<hi rend="smcaps">cap</hi>2</siglum>, <siglum>v1793</siglum>&plus; (&minus;<siglum rend="smcaps">wh1</siglum>)</wit></appPart></app></note>
