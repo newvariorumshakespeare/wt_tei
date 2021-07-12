@@ -971,7 +971,7 @@
 <app><lem>With&hellip;fauorable</lem>] <appPart><rdg type="replace">With aspect of more favour</rdg> <wit><siglum rend="smcaps">han</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_270" target="#tln_721" targetEnd="#tln_722"><label>721–2</label>
-<app><lem>and&hellip;perform’d.</lem>] <appPart><rdg type="insert"><stage type="description"><hi rend="italic">to the Guard.</hi></stage></rdg> <wit><siglum rend="smcaps">cap</siglum></wit></appPart></app></note>
+<app><lem>and&hellip;perform’d.</lem>] <appPart><rdgDesc>Ad. <rdg type="insert"><stage type="description"><hi rend="italic">to the Guard.</hi></stage></rdg></rdgDesc> <wit><siglum rend="smcaps">cap</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_271" target="#tln_723"><label>723</label>
 <app><appPart><rdg type="insert"><stage type="description"><hi rend="italic">seeing them delay.</hi></stage></rdg> <wit><siglum rend="smcaps">cap</siglum></wit></appPart>; <appPart><rdg type="insert"><stage type="description"><hi rend="italic">To the guards.</hi></stage></rdg> <wit><siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum> (&minus;<siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">del4</siglum>), <siglum rend="smcaps">oxf1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum> (&minus;<siglum rend="smcaps">nlsn</siglum>, <siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">kit1</siglum>) (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
