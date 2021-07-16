@@ -246,7 +246,7 @@
 
 <p>Variant lining affecting meter—verse as prose, prose as verse, verse as different verse—is noted. The elision or expansion of syllables is recorded only if the alteration shifts the word’s accent or alters the number of feet in a verse line. When words that may be elided must be elided to make regular verse (e.g., <hi rend="italic">in the</hi> to one-syllable <hi rend="italic">i’th</hi>) it is assumed that elision was intended and no note is provided. The expression <hi rend="italic">one verse line</hi> indicates that part lines of verse shared by speakers have been arranged to indicate that taken together they constitute a pentameter. If the subject of the note is variant punctuation only, a word in the lemma that is repeated in the variant is represented there by a swung dash (&swdash;), and the absence of punctuation is indicated by an inferior caret (&caret;). Editions are represented by the sigla listed in this section (<ptr targType="listWit" target="#listwit_editions"/>) and on the endpapers of this book.</p>
 
-<p>The basic form of the textual note may be illustrated by
+<p xml:id="textual_note_explanation_start">The basic form of the textual note may be illustrated by
 
 <quote rend="block"><note type="textual"><label>647</label>
 <app><lem>ha’s</lem>] <appPart><rdg type="replace">hath</rdg> <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum></wit></appPart></app></note></quote>
