@@ -459,7 +459,7 @@
 
 <bibl xml:id="b_bur87"><author>Burchfield, Robert</author>. <title level="a">The Bare Infinitive in <title level="m">The Winter’s Tale</title>.</title> <title level="m">Shakespeare: Text, Language, Criticism</title>. Ed. <editor>Bernhard Fabian</editor> &amp; <editor>Kurt Tetzeli von Rosador</editor>. <pubPlace>Hildesheim</pubPlace>, <date>1987</date>.</bibl>
 
-<bibl xml:id="b_burc35"><author>Burney, Charles</author>. <title level="m">A General History of Music</title>. Ed. <editor>Frank Mercer</editor>. <extent>2 vols.</extent> <date>1935</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Dover</publisher>, <date>1957</date>.</bibl> <bibl><edition>1st ed.</edition><extent>4 vols.</extent> <biblScope type="pages">1776–89</biblScope>.</bibl></note>)</bibl>
+<bibl xml:id="b_burc35"><author>Burney, Charles</author>. <title level="m">A General History of Music</title>. Ed. <editor>Frank Mercer</editor>. <extent>2 vols.</extent> <date>1935</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Dover</publisher>, <date>1957</date>.</bibl> <bibl><edition>1st ed.</edition> <extent>4 vols.</extent> <biblScope type="pages">1776–89</biblScope>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_burh58"><author>Burton, H[arry] M.</author> <title level="m">Shakespeare and His Plays</title>. <pubPlace>New York</pubPlace>, <date>1958</date>.</bibl>
 
