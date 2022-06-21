@@ -1874,7 +1874,7 @@
 <app><lem>A very</lem>] <appPart><rdg type="replace">very</rdg> <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_520" target="#tln_1512"><label>1512</label>
-<app><lem>boy,&hellip;Childe</lem>] <appPart><rdg type="replace">god, or a child</rdg> <wit><siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">boy- or a maid-child</rdg> <wit><ref targType="bibl" target="#b_kei1789"><name type="app">keightley</name></ref> <hi rend="italic">conj. in</hi> <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
+<app><lem>boy, or a Childe</lem>] <appPart><rdg type="replace">god, or a child</rdg> <wit><siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">boy- or a maid-child</rdg> <wit><ref targType="bibl" target="#b_kei1789"><name type="app">keightley</name></ref> <hi rend="italic">conj. in</hi> <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_521" target="#tln_1520"><label>1520</label>
 <app><appPart><rdgDesc><hi rend="italic">After</hi> <ref targType="lb" target="#tln_1523">1523</ref></rdgDesc> <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">del</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">bul</siglum></wit></appPart></app></note>
