@@ -2192,7 +2192,7 @@
 <app><lem>Kinsmans</lem>] <appPart><rdg type="replace">kinsman</rdg> <wit><siglum rend="smcaps">ard1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_612" target="#tln_1782"><label>1782</label>
-<app><lem>the</lem>] <appPart><rdg type="replace">thy</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">rann</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
+<app><lem>thee on the way</lem>] <appPart><rdg type="replace">thee on thy way</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">rann</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_613-01" target="#tln_1784"><label>1784</label>
 <app><lem>fartheewell</lem>] <appPart><rdg type="replace">farewell</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
