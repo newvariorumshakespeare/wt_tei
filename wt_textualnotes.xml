@@ -1643,7 +1643,7 @@
 <app><appPart><rdg type="insert"><stage type="enter"><hi rend="italic">Enter Servant.</hi></stage></rdg> <wit><siglum rend="smcaps">rowe1</siglum>&plus; (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_458" target="#tln_1328"><label>1328</label>
-<app><lem>How?</lem>] <appPart><rdg>&swdash;&caret;</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum></wit></appPart></app></note>
+<app><lem>How? gone</lem>] <appPart><rdg>How gone</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_459-01" target="#tln_1331"><label>1331</label>
 <app><lem>now&caret; there?</lem>] <appPart><rdg>&swdash;? &swdash;!</rdg> <wit><siglum rend="smcaps">john</siglum></wit></appPart></app></note>
