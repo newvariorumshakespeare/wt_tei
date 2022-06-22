@@ -1751,7 +1751,7 @@
 <app><lem>woman:</lem>] <appPart><rdg type="replace">&swdash;&caret;</rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_485" target="#tln_1422"><label>1422</label>
-<app><lem>take your&hellip;you</lem>] <appPart><rdg type="replace">take you your&hellip;you</rdg> <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">kit1</siglum></wit></appPart>; <appPart><rdg type="replace">take your own&hellip;you</rdg> <wit><siglum rend="smcaps">ays</siglum></wit></appPart>; <appPart><rdg type="replace">take your patience to you, sir</rdg> <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
+<app><lem>take your patience to you</lem>] <appPart><rdg type="replace">take you your patience to you</rdg> <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">kit1</siglum></wit></appPart>; <appPart><rdg type="replace">take your own patience to you</rdg> <wit><siglum rend="smcaps">ays</siglum></wit></appPart>; <appPart><rdg type="replace">take your patience to you, sir</rdg> <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_486" target="#tln_1424"><label>1424</label>
 <app><lem>speake</lem>] <appPart><rdg type="replace">say</rdg> <wit><siglum rend="smcaps">john</siglum></wit></appPart></app></note>
