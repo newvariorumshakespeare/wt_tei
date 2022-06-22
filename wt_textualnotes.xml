@@ -1646,7 +1646,7 @@
 <app><lem>How? gone</lem>] <appPart><rdg>How gone</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_459-01" target="#tln_1331"><label>1331</label>
-<app><lem>now&caret; there?</lem>] <appPart><rdg>&swdash;? &swdash;!</rdg> <wit><siglum rend="smcaps">john</siglum></wit></appPart></app></note>
+<app><lem>now there?</lem>] <appPart><rdg>now? There!</rdg> <wit><siglum rend="smcaps">john</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_459-02" target="#tln_1331"><label display="all(invisible)">1331</label>
 <app><appPart><rdg type="insert"><stage type="description">Her. <hi rend="italic">faints.</hi></stage></rdg> <wit><siglum rend="smcaps">rowe1</siglum> &plus; (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
