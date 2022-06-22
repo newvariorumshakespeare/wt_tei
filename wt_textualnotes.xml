@@ -1535,7 +1535,7 @@
 <app><lem>bound</lem>] <appPart><rdg type="replace">bounds</rdg> <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>, <siglum>v1773</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_427-02" target="#tln_1225"><label display="all(invisible)">1225</label>
-<app><lem>or&caret; in</lem>] <appPart><rdg type="replace">&swdash;, in</rdg> <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum> (&minus;<siglum rend="smcaps">valpy</siglum>, <siglum rend="smcaps">hud1</siglum>), <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">del</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
+<app><lem>or in</lem>] <appPart><rdg type="replace">or, in</rdg> <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum> (&minus;<siglum rend="smcaps">valpy</siglum>, <siglum rend="smcaps">hud1</siglum>), <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">del</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_428" target="#tln_1230"><label>1230</label>
 <app><lem>these</lem>] <appPart><rdg type="replace">those</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>, <siglum>v1773</siglum></wit></appPart></app></note>
