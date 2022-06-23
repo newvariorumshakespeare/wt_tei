@@ -959,7 +959,7 @@
 <app><lem>those</lem>] <appPart><rdg type="replace">these</rdg> <wit><siglum rend="smcaps">pope2</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_267-01" target="#tln_710"><label>710</label>
-<app><lem>a</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
+<app><lem>is a</lem>] <appPart><rdg type="replace">is</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_267-02" target="#tln_710"><label display="all(invisible)">710</label>
 <app><lem>off</lem>] <appPart><rdg type="replace">of</rdg> <wit><siglum rend="smcaps">theo</siglum></wit></appPart></app></note>
