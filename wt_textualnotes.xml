@@ -1502,7 +1502,7 @@
 <app><lem>The</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum rend="smcaps">pope2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_418" target="#tln_1203"><label>1203</label>
-<app><lem>Actions&caret; (as they doe)&caret;</lem>] <appPart><rdg>&swdash;, (&swdash; &swdash; &swdash;)&caret;</rdg> <wit><siglum rend="smcaps">cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">del2</siglum>; &swdash;&caret; (&swdash; &swdash; &swdash;), <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">del4</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">evns</siglum></wit></appPart></app></note>
+<app><lem>Actions (as they doe)</lem>] <appPart><rdg type="replace">Actions, (as they doe)</rdg> <wit><siglum rend="smcaps">cap</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">del2</siglum></wit></appPart>; <appPart><rdg type="replace">Actions (as they doe),</rdg> <wit><siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">dyce1</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">del4</siglum>, <siglum rend="smcaps">col4</siglum>, <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">evns</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_419" target="#tln_1205"><label>1205</label>
 <app><lem>Accusation</lem>] <appPart><rdg type="replace">Accusations</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
@@ -1535,7 +1535,7 @@
 <app><lem>bound</lem>] <appPart><rdg type="replace">bounds</rdg> <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>, <siglum>v1773</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_427-02" target="#tln_1225"><label display="all(invisible)">1225</label>
-<app><lem>or&caret; in</lem>] <appPart><rdg type="replace">&swdash;, in</rdg> <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum> (&minus;<siglum rend="smcaps">valpy</siglum>, <siglum rend="smcaps">hud1</siglum>), <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">del</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
+<app><lem>or in</lem>] <appPart><rdg type="replace">or, in</rdg> <wit><siglum rend="smcaps">cap</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum> (&minus;<siglum rend="smcaps">valpy</siglum>, <siglum rend="smcaps">hud1</siglum>), <siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">del</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_428" target="#tln_1230"><label>1230</label>
 <app><lem>these</lem>] <appPart><rdg type="replace">those</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>, <siglum>v1773</siglum></wit></appPart></app></note>
@@ -1592,7 +1592,7 @@
 <app><lem>it</lem>] <appPart><rdg type="replace">its</rdg> <wit><siglum>m<hi rend="smcaps">fl</hi>V.a.80</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">del2</siglum> (&minus;<siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">stau</siglum>), <siglum rend="smcaps">dyce2</siglum>&sigrange;<siglum rend="smcaps">irv</siglum> (&minus;<siglum rend="smcaps">wh2</siglum>), <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">bev4</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_445" target="#tln_1281"><label>1281</label>
-<app><lem>Strumpet:&hellip;hatred&caret;</lem>] <appPart><rdg>&swdash;&caret;&hellip;&swdash;;</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart></app></note>
+<app><lem>Strumpet: With immodest hatred</lem>] <appPart><rdg type="replace">Strumpet with immodest hatred;</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">rann</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_446-01" target="#tln_1285"><label>1285</label>
 <app><lem>limit</lem>] <appPart><rdg type="replace">limbs</rdg> <wit><siglum>F3</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
@@ -1601,10 +1601,10 @@
 <app><lem>Now</lem>] <appPart><rdg type="replace">And now</rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_447-01" target="#tln_1288"><label>1288</label>
-<app><lem>no</lem>] <appPart><rdg type="replace">my</rdg> <wit><siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">for</rdg> <wit><ref targType="bibl" target="#b_kei1789"><name type="app">keightley</name></ref> <hi rend="italic">conj. in</hi> <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">bul</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">sig</siglum></wit></appPart>; <appPart><rdg type="replace">no</rdg> <wit><siglum rend="smcaps">k&amp;r</siglum></wit></appPart></app></note>
+<app><lem>no Life</lem>] <appPart><rdg type="replace">my Life</rdg> <wit><siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">for Life</rdg> <wit><ref targType="bibl" target="#b_kei1789"><name type="app">keightley</name></ref> <hi rend="italic">conj. in</hi> <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">bul</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">sig</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_447-02" target="#tln_1288"><label display="all(invisible)">1288</label>
-<app><lem>no&caret;</lem>] <appPart><rdg type="replace">&swdash;!</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">sing1</siglum> (&minus;<siglum rend="smcaps">rann</siglum>), <siglum rend="smcaps">col1</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
+<app><lem>no Life</lem>] <appPart><rdg type="replace">no! Life</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">han</siglum>, <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">sing1</siglum> (&minus;<siglum rend="smcaps">rann</siglum>), <siglum rend="smcaps">col1</siglum>&sigrange;<siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">col3</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps">knt3</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_448-01" target="#tln_1296"><label>1296</label>
 <app><appPart><rdg type="insert"><head>SCENE III.</head></rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john</siglum></wit></appPart></app></note>
@@ -1643,10 +1643,10 @@
 <app><appPart><rdg type="insert"><stage type="enter"><hi rend="italic">Enter Servant.</hi></stage></rdg> <wit><siglum rend="smcaps">rowe1</siglum>&plus; (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_458" target="#tln_1328"><label>1328</label>
-<app><lem>How?</lem>] <appPart><rdg>&swdash;&caret;</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum></wit></appPart></app></note>
+<app><lem>How? gone</lem>] <appPart><rdg type="replace">How gone</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_459-01" target="#tln_1331"><label>1331</label>
-<app><lem>now&caret; there?</lem>] <appPart><rdg>&swdash;? &swdash;!</rdg> <wit><siglum rend="smcaps">john</siglum></wit></appPart></app></note>
+<app><lem>now there?</lem>] <appPart><rdg type="replace">now? There!</rdg> <wit><siglum rend="smcaps">john</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_459-02" target="#tln_1331"><label display="all(invisible)">1331</label>
 <app><appPart><rdg type="insert"><stage type="description">Her. <hi rend="italic">faints.</hi></stage></rdg> <wit><siglum rend="smcaps">rowe1</siglum> &plus; (<hi rend="italic">subst.</hi>)</wit></appPart></app></note>
@@ -1751,7 +1751,7 @@
 <app><lem>woman:</lem>] <appPart><rdg type="replace">&swdash;&caret;</rdg> <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_485" target="#tln_1422"><label>1422</label>
-<app><lem>take your&hellip;you</lem>] <appPart><rdg type="replace">take you your&hellip;you</rdg> <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">kit1</siglum></wit></appPart>; <appPart><rdg type="replace">take your own&hellip;you</rdg> <wit><siglum rend="smcaps">ays</siglum></wit></appPart>; <appPart><rdg type="replace">take your&hellip;you, sir</rdg> <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
+<app><lem>take your patience to you</lem>] <appPart><rdg type="replace">take you your patience to you</rdg> <wit><siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">kit1</siglum></wit></appPart>; <appPart><rdg type="replace">take your own patience to you</rdg> <wit><siglum rend="smcaps">ays</siglum></wit></appPart>; <appPart><rdg type="replace">take your patience to you, sir</rdg> <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_486" target="#tln_1424"><label>1424</label>
 <app><lem>speake</lem>] <appPart><rdg type="replace">say</rdg> <wit><siglum rend="smcaps">john</siglum></wit></appPart></app></note>
@@ -1874,7 +1874,7 @@
 <app><lem>A very</lem>] <appPart><rdg type="replace">very</rdg> <wit><siglum rend="smcaps">rid</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_520" target="#tln_1512"><label>1512</label>
-<app><lem>boy,&hellip;Childe</lem>] <appPart><rdg type="replace">god, or a child</rdg> <wit><siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">boy- or a maid-child</rdg> <wit><ref targType="bibl" target="#b_kei1789"><name type="app">keightley</name></ref> <hi rend="italic">conj. in</hi> <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
+<app><lem>boy, or a Childe</lem>] <appPart><rdg type="replace">god, or a child</rdg> <wit><siglum rend="smcaps">wh1</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">boy- or a maid-child</rdg> <wit><ref targType="bibl" target="#b_kei1789"><name type="app">keightley</name></ref> <hi rend="italic">conj. in</hi> <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_521" target="#tln_1520"><label>1520</label>
 <app><appPart><rdgDesc><hi rend="italic">After</hi> <ref targType="lb" target="#tln_1523">1523</ref></rdgDesc> <wit><siglum rend="smcaps">dyce</siglum>, <siglum rend="smcaps">stau</siglum>, <siglum rend="smcaps">del</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps">bul</siglum></wit></appPart></app></note>
@@ -1922,7 +1922,7 @@
 <app><lem>met’st</lem>] <appPart><rdg type="replace">meet’st</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>, <siglum>v1773</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_534" target="#tln_1558"><label>1558</label>
-<app><lem>open’t&hellip;boy?</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum>v1785</siglum></wit></appPart></app></note>
+<app><lem>Changeling: open’t: what’s within, boy?</lem>] <appPart><rdg type="replace">Changeling.</rdg> <wit><siglum>v1785</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_535" target="#tln_1559"><label>1559</label>
 <app><lem>mad</lem>] <appPart><rdg type="replace">made</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum> <hi rend="italic">conj.</hi>, <ref targType="bibl" target="#b_nich1817"><name type="app">theobald</name></ref> (1729) <hi rend="italic">conj. in</hi> <ref targType="bibl" target="#b_nich1817"><name type="app">nichols</name></ref> (1817, 2:362–3), <siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">john1</siglum>, <siglum rend="smcaps">cap</siglum>, <siglum>v1773</siglum>&plus;</wit></appPart></app></note>
@@ -2192,7 +2192,7 @@
 <app><lem>Kinsmans</lem>] <appPart><rdg type="replace">kinsman</rdg> <wit><siglum rend="smcaps">ard1</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_612" target="#tln_1782"><label>1782</label>
-<app><lem>the</lem>] <appPart><rdg type="replace">thy</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">rann</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
+<app><lem>thee on the way</lem>] <appPart><rdg type="replace">thee on thy way</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">rann</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_613-01" target="#tln_1784"><label>1784</label>
 <app><lem>fartheewell</lem>] <appPart><rdg type="replace">farewell</rdg> <wit><siglum>F2</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
@@ -2291,7 +2291,7 @@
 <app><lem>thing</lem>] <appPart><rdg type="replace">things</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope1</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_639-02" target="#tln_1866"><label display="all(invisible)">1866</label>
-<app><lem>it&caret;</lem>] <appPart><rdg type="replace">&swdash;;</rdg> <wit><siglum>F4</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">sig</siglum>, <siglum rend="smcaps">pen2</siglum></wit></appPart></app></note>
+<app><lem>quench it</lem>] <appPart><rdg type="replace">quench it;</rdg> <wit><siglum>F4</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">sig</siglum>, <siglum rend="smcaps">pen2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_640" target="#tln_1876"><label>1876</label>
 <app><lem>Sir, welcome</lem>] <appPart><rdg type="replace">Sirs, welcome</rdg> <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps">john2</siglum></wit></appPart>; <appPart><rdg type="replace">Sirs, you’re welcome</rdg> <wit><siglum rend="smcaps">han</siglum></wit></appPart>; <appPart><rdg type="replace">Welcome, sir</rdg> <wit><siglum rend="smcaps">cap</siglum>, <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">sing1</siglum>, <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">hud2</siglum></wit></appPart>; <appPart><rdg type="replace">Sir, you’re welcome</rdg> <wit><siglum>m<hi rend="smcaps">tyr</hi></siglum> <hi rend="italic">conj.</hi>, <siglum rend="smcaps">ktly</siglum></wit></appPart></app></note>
