@@ -2591,7 +2591,7 @@
 <app><lem>homely</lem>] <appPart><rdg type="replace">humble</rdg> <wit><siglum>v1803</siglum>, <siglum>v1813</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_717-01" target="#tln_2160"><label>2160</label>
-<app><lem>a</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
+<app><lem>foote and a halfe</lem>] <appPart><rdg type="replace">foote and halfe</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_717-02" target="#tln_2160"><label display="all(invisible)">2160</label>
 <app><lem>squire</lem>] <appPart><rdg type="replace">square</rdg> <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">k&amp;r</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">bev4</siglum></wit></appPart>; <appPart><rdg type="replace">squire</rdg> <wit><siglum rend="smcaps">capn</siglum></wit></appPart></app></note>
