@@ -3506,7 +3506,7 @@
 <app><lem>Gentlemen</lem>] <appPart><rdg type="replace">gentleman</rdg> <wit><siglum rend="smcaps">blair</siglum>, <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">ard2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_983" target="#tln_3142"><label>3142</label>
-<app><lem>a</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">sig</siglum></wit></appPart></app></note>
+<app><lem>now a Gentleman</lem>] <appPart><rdg type="replace">now Gentleman</rdg> <wit><siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">sig</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_984" target="#tln_3164"><label>3164</label>
 <app><lem>thy</lem>] <appPart><rdg type="replace">your</rdg> <wit><siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note>
