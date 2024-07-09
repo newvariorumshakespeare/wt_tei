@@ -35,7 +35,7 @@
 
 <bibl xml:id="b_adaj23"><author display="book(ldash)">Adams, Joseph Q.</author> <title level="m">A Life of William Shakespeare</title>. <pubPlace>Boston</pubPlace>, <date>1923</date>.</bibl>
 
-<bibl xml:id="b_adaj17"><editor display="book(ldash)">Adams, Joseph Q.</editor>, ed. <title level="m">The Dramatic Records of Sir Henry Herbert</title>. <pubPlace>New Haven</pubPlace>, <date>1917</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Blom</publisher>, <date>1964</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_adaj17"><author display="book(ldash)">Adams, Joseph Q.</author>, ed. <title level="m">The Dramatic Records of Sir Henry Herbert</title>. <pubPlace>New Haven</pubPlace>, <date>1917</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Blom</publisher>, <date>1964</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_adar89"><author>Adams, Robert M.</author> <title level="m">Shakespeare: The Four Romances</title>. <pubPlace>New York</pubPlace>, <date>1989</date>.</bibl>
 
@@ -97,7 +97,7 @@
 
 <bibl xml:id="b_anon1864c"><author>Anon.</author> <note place="inline">Contributor to <siglum>v1898</siglum>.</note></bibl>
 
-<bibl xml:id="b_anon1572"><author>Anon.</author> <title level="m">Amadis of Fraunce, The Treasurie of</title>. <respStmt><resp>Tr. out of French</resp> [by <translator>T. Paynell</translator>]</respStmt>. <date>[1572?]</date>.</bibl>
+<bibl xml:id="b_anon1572"><author>Anon.</author> <title level="m">Amadis of Fraunce, The Treasurie of</title>. <respStmt><resp>Tr. out of French</resp> [by <author>T. Paynell</author>]</respStmt>. <date>[1572?]</date>.</bibl>
 
 <bibl xml:id="b_anon00"><author>Anon.</author> <note place="inline">Anonymous MS notes in <siglum>F2</siglum> quoted in <siglum rend="smcaps">sing2</siglum>.</note></bibl>
 
@@ -195,11 +195,11 @@
 
 <bibl xml:id="b_bar69"><author display="book(ldash)">Barber, Cesar L.</author> <title level="a"><quote>Thou that beget’st him that did thee beget</quote>: Transformation in <title level="m">Pericles</title> and <title level="m">The Winter’s Tale</title>.</title> <title level="j">ShS</title> <biblScope type="vol">22</biblScope> (<date>1969</date>), <biblScope type="pages">59–67</biblScope>.</bibl>
 
-<bibl xml:id="b_bar86"><author display="book(ldash)">Barber, Cesar L.</author>, &amp; <author>Richard P. Wheeler</author>. <title level="m">The Whole Journey: Shakespeare’s Power of Development</title>. <pubPlace>Berkeley</pubPlace>, <date>[1986]</date>.</bibl>
+<bibl xml:id="b_bar86"><author display="book(ldash)">Barber, Cesar L</author>, &amp; <author>Richard P. Wheeler</author>. <title level="m">The Whole Journey: Shakespeare’s Power of Development</title>. <pubPlace>Berkeley</pubPlace>, <date>[1986]</date>.</bibl>
 
 <bibl xml:id="b_barc76"><author>Barber, Charles</author>. <title level="m">Early Modern English</title>. <pubPlace>London</pubPlace>, <date>1976</date>.</bibl>
 
-<bibl xml:id="b_barc85"><author>Barber, Charles</author>. <title level="m">The Theme of Honour’s Tongue</title>. <title level="s">Gothenburg Stud. in English</title> <biblScope type="vol">58</biblScope>. <pubPlace>Göteborg</pubPlace>, <date>1985</date>.</bibl>
+<bibl xml:id="b_barc85"><author display="book(ldash)">Barber, Charles</author>. <title level="m">The Theme of Honour’s Tongue</title>. <title level="s">Gothenburg Stud. in English</title> <biblScope type="vol">58</biblScope>. <pubPlace>Göteborg</pubPlace>, <date>1985</date>.</bibl>
 
 <bibl xml:id="b_barc64"><author display="book(ldash)">Barber, Charles</author>. <title level="a"><title level="m">The Winter’s Tale</title> and Jacobean Society.</title> <title level="m">Shakespeare in a Changing World</title>. Ed. <editor>Arnold Kettle</editor>. <pubPlace>New York</pubPlace>, <date>1964</date>. <biblScope type="pages">Pp. 233–52</biblScope>.</bibl>
 
@@ -281,7 +281,7 @@
 
 <bibl xml:id="b_berk84"><author>Berkeley, David S.</author> <title level="m">Blood Will Tell in Shakespeare’s Plays</title>. <pubPlace>Lubbock, Tex.</pubPlace>, <date>1984</date>.</bibl>
 
-<bibl xml:id="b_berk85"><author display="book(ldash)">Berkeley, David S.</author>, &amp; <author>Zahra Karimipour</author>. <title level="a">Blood-Consciousness as a Theme in <title level="m">The Winter’s Tale</title>.</title> <title level="j">EIRC</title> <biblScope type="vol">11</biblScope> (<date>1985</date>), <biblScope type="pages">89–98</biblScope>.</bibl>
+<bibl xml:id="b_berk85"><author display="book(ldash)">Berkeley, David S</author>, &amp; <author>Zahra Karimipour</author>. <title level="a">Blood-Consciousness as a Theme in <title level="m">The Winter’s Tale</title>.</title> <title level="j">EIRC</title> <biblScope type="vol">11</biblScope> (<date>1985</date>), <biblScope type="pages">89–98</biblScope>.</bibl>
 
 <bibl xml:id="b_berj1790"><author>Berkenhout, John</author>. <rs>[Thirty-fourth letter to his son.]</rs> <title level="a">Shakespeare.</title> <title level="j">St. James’s Chronicle</title> <biblScope type="issue">No. 4622</biblScope> (<date>2–4 Dec. 1790</date>), <biblScope type="pages">2</biblScope>.</bibl>
 
@@ -367,7 +367,7 @@
 
 <bibl xml:id="b_boos79"><author display="book(ldash)">Booth, Stephen</author>. <title level="a">Speculations on Doubling in Shakespeare’s Plays.</title> <title level="m">Shakespeare: The Theatrical Dimension</title>. Ed. <editor>Philip C. McGuire</editor> &amp; <editor>David A. Samuelson</editor>. <pubPlace>New York</pubPlace>, <date>1979</date>. <biblScope type="pages">Pp. 103–31</biblScope>.</bibl>
 
-<bibl xml:id="b_boos77"><editor display="book(ldash)">Booth, Stephen</editor>, ed. <title level="m">Shakespeare’s Sonnets</title>. <pubPlace>New Haven</pubPlace>, <date>1977</date>.</bibl>
+<bibl xml:id="b_boos77"><author display="book(ldash)">Booth, Stephen</author>, ed. <title level="m">Shakespeare’s Sonnets</title>. <pubPlace>New Haven</pubPlace>, <date>1977</date>.</bibl>
 
 <bibl xml:id="b_bor55"><author>Borinski, Ludwig</author>. <title level="a">Shakespeare’s Comic Prose.</title> <title level="j">ShS</title> <biblScope type="vol">8</biblScope> (<date>1955</date>), <biblScope type="pages">57–68</biblScope>.</bibl>
 
@@ -397,7 +397,7 @@
 
 <bibl xml:id="b_braj05"><author>Brand, John</author>. <note place="inline"><hi rend="italic">See</hi> <ref targType="bibl" target="#b_hazw05">Hazlitt, W[illiam] Carew</ref>.</note></bibl>
 
-<bibl xml:id="b_brag1898"><author>Brandes, Georg</author>. <title level="m">William Shakespeare: A Critical Study</title>. Tr. <translator>William Archer</translator>, <translator>Mary Morison</translator>, &amp; <translator>Diana White</translator>. <extent>2 vols.</extent> <date>1898</date>. (<note place="inline"><bibl><edition>1st Danish ed.</edition> <extent>3 vols.</extent> <pubPlace>Copenhagen</pubPlace>, <date>1895–6</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_brag1898"><author>Brandes, Georg</author>. <title level="m">William Shakespeare: A Critical Study</title>. Tr. <author>William Archer</author>, <author>Mary Morison</author>, &amp; <author>Diana White</author>. <extent>2 vols.</extent> <date>1898</date>. (<note place="inline"><bibl><edition>1st Danish ed.</edition> <extent>3 vols.</extent> <pubPlace>Copenhagen</pubPlace>, <date>1895–6</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_bre07"><author>Brereton, J. LeGay</author>. <title level="a">The Relation of <title level="m">The Thracian Wonder</title> to Greene’s <title level="m">Menaphon</title>.</title> <title level="j">MLR</title> <biblScope type="vol">2</biblScope> (<date>1907</date>), <biblScope type="pages">34–8</biblScope>.</bibl>
 
@@ -409,7 +409,7 @@
 
 <bibl xml:id="b_brij55"><author>Briley, John</author>. <title level="a">Of Stake and Stage.</title> <title level="j">ShS</title> <biblScope type="vol">8</biblScope> (<date>1955</date>), <biblScope type="pages">106–8</biblScope>.</bibl>
 
-<bibl xml:id="b_brib1895"><author>Brink, Bernhard ten</author>. <title level="m">Five Lectures on Shakespeare</title>. Tr. <translator>Julia Franklin</translator>. <pubPlace>New York</pubPlace>, <date>1895</date>.</bibl>
+<bibl xml:id="b_brib1895"><author>Brink, Bernhard ten</author>. <title level="m">Five Lectures on Shakespeare</title>. Tr. <author>Julia Franklin</author>. <pubPlace>New York</pubPlace>, <date>1895</date>.</bibl>
 
 <bibl xml:id="b_bria81"><author>Brissenden, Alan</author>. <title level="m">Shakespeare and the Dance</title>. <pubPlace>Atlantic Highlands, N.J.</pubPlace>, <date>1981</date>.</bibl>
 
@@ -527,7 +527,7 @@
 
 <bibl xml:id="b_cha1799"><author display="book(ldash)">Chalmers, George</author>. <title level="m">A Supplemental Apology for the Believers in the Shakspeare-Papers</title>. <date>1799</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Kelley</publisher>, <date>1971</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_chae23"><author>Chambers, E[dmund] K.</author> <title level="m">The Elizabethan Stage</title>. <extent>4 vols.</extent> <publisher>OUP</publisher>, <date>1923</date>. (<note place="inline"><bibl>Rpt. with corrections <date>1945</date>, <date>1951</date>, <date>1961</date>, &amp; <date>1974</date>.</bibl></note></bibl>
+<bibl xml:id="b_chae23"><author>Chambers, E[dmund] K.</author> <title level="m">The Elizabethan Stage</title>. <extent>4 vols.</extent> <publisher>OUP</publisher>, <date>1923</date>. (<note place="inline"><bibl>Rpt. with corrections <date>1945</date>, <date>1951</date>, <date>1961</date>, &amp; <date>1974</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_chae03"><author display="book(ldash)">Chambers, E[dmund] K.</author> <title level="m">The Medieval Stage</title>. <extent>2 vols.</extent> <publisher>OUP</publisher>, <date>1903</date>.</bibl>
 
@@ -555,7 +555,7 @@
 
 <bibl xml:id="b_chaw1893"><author display="book(ldash)">Chappell, W[illiam]</author>. <note place="inline"><hi rend="italic">See</hi> <ref targType="bibl" target="#b_woo1893">Wooldridge, H. Ellis</ref>.</note></bibl>
 
-<bibl xml:id="b_charl91"><author>Charbonneau-Lassay, Louis</author>. <title level="m">The Bestiary of Christ</title>. Tr. <translator>D. M. Dooling</translator>. <pubPlace>New York</pubPlace>, <date>1991</date>.</bibl>
+<bibl xml:id="b_charl91"><author>Charbonneau-Lassay, Louis</author>. <title level="m">The Bestiary of Christ</title>. Tr. <author>D. M. Dooling</author>. <pubPlace>New York</pubPlace>, <date>1991</date>.</bibl>
 
 <bibl xml:id="b_charh37"><author>Charlton, H[enry] B.</author> <title level="a">Shakespeare’s Comedies: The Consummation.</title> <title level="j">BJRL</title> <biblScope type="vol">21</biblScope> (<date>1937</date>), <biblScope type="pages">323–51</biblScope>.</bibl>
 
@@ -583,7 +583,7 @@
 
 <bibl xml:id="b_clar1863"><author>Clarke, Charles Cowden</author>. <title level="m">Shakespeare-Characters; Chiefly Those Subordinate</title>. <date>1863</date>.</bibl>
 
-<bibl xml:id="b_clar1879"><author display="book(ldash)">Clarke, Charles Cowden</author>, &amp; <author>Mary Cowden Clarke</author>. <title level="m">The Shakespeare Key</title>. <date>1879</date>. (<note place="inline"><bibl><edition>Rpt.</edition> <pubPlace>New York</pubPlace>: <publisher>Ungar</publisher> <date>n.d.</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_clar1879"><author display="book(ldash)">Clarke, Charles Cowden</author>, &amp; <author>Mary Cowden Clarke</author>. <title level="m">The Shakespeare Key</title>. <date>1879</date>. (<note place="inline"><bibl><edition>Rpt.</edition> <pubPlace>New York</pubPlace>: <publisher>Ungar</publisher> <date>n.d.</date></bibl></note>)</bibl>
 
 <bibl xml:id="b_clap68"><author>Clarkson, Paul S.</author>, &amp; <author>Clyde T. Warren</author>. <title level="m">The Law of Property in Shakespeare and the Elizabethan Drama</title>. <edition>Rev. ed.</edition> <pubPlace>New York</pubPlace>, <date>1968</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <pubPlace>Baltimore</pubPlace>, <date>1942</date>.</bibl></note>)</bibl>
 
@@ -625,9 +625,9 @@
 
 <bibl xml:id="b_colj1841"><author display="book(ldash)">Collier, J[ohn] Payne</author>. <title level="m">Reasons for a New Edition of Shakespeare’s Works</title>. <date>1841</date>. (<note place="inline"><bibl><edition>2nd, enl., ed.</edition> <date>1842</date></bibl>; <bibl>rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1973</date></bibl>.</note>)</bibl>
 
-<bibl xml:id="b_colj1866"><editor display="book(ldash)">Collier, J[ohn] Payne</editor>, ed. <title level="m">Illustrations of Old English Literature</title>. <extent>3 vols.</extent> <date>1866</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Blom</publisher>, <date>1966</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_colj1866"><author display="book(ldash)">Collier, J[ohn] Payne</author>, ed. <title level="m">Illustrations of Old English Literature</title>. <extent>3 vols.</extent> <date>1866</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Blom</publisher>, <date>1966</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_colj1843"><editor display="book(ldash)">Collier, J[ohn] Payne</editor>, ed. <title level="m">Shakespeare’s Library</title>. <extent>2 vols.</extent> <date>[1843]</date>. (<note place="inline"><bibl><edition>2nd ed. rev.</edition> <editor>William Carew Hazlitt</editor>, <extent>6 vols.</extent> <date>1875</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_colj1843"><author display="book(ldash)">Collier, J[ohn] Payne</author>, ed. <title level="m">Shakespeare’s Library</title>. <extent>2 vols.</extent> <date>[1843]</date>. (<note place="inline"><bibl><edition>2nd ed. rev.</edition> <editor>William Carew Hazlitt</editor>, <extent>6 vols.</extent> <date>1875</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_cold82"><author>Collins, David G.</author> <title level="a">The Function of Art in Shakespeare’s <title level="m">The Winter’s Tale</title>.</title> <title level="j">BSUF</title> <biblScope type="vol">23</biblScope> (<date>1982</date>), <biblScope type="pages">55–9</biblScope>.</bibl>
 
@@ -683,7 +683,7 @@
 
 <bibl xml:id="b_cram51"><author>Crane, Milton</author>. <title level="m">Shakespeare’s Prose</title>. <pubPlace>Chicago</pubPlace>, <date>1951</date>.</bibl>
 
-<bibl xml:id="b_cre09"><author>Creizenach, Wilhelm</author>. <title level="m">Geschichte des neueren Dramas</title>. <biblScope type="vol">Vierter Band.</biblScope> <title level="s">Das englische Drama im Zeitalter Shakespeares</title> <biblScope type="part">Erster Teil</biblScope>. <pubPlace>Halle a. S.</pubPlace>, <date>1909</date>. (<note place="inline"><bibl><edition>Eng. tr.</edition> <translator>Cécile Hugon</translator>, <respStmt><resp>rev.</resp> <editor>Alfred F. Schuster</editor></respStmt>, <date>1916</date></bibl>. <bibl><edition>This rpt. </edition><pubPlace>New York</pubPlace>: <publisher>Haskell House</publisher>, <date>1964</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_cre09"><author>Creizenach, Wilhelm</author>. <title level="m">Geschichte des neueren Dramas</title>. <biblScope type="vol">Vierter Band.</biblScope> <title level="s">Das englische Drama im Zeitalter Shakespeares</title> <biblScope type="part">Erster Teil</biblScope>. <pubPlace>Halle a. S.</pubPlace>, <date>1909</date>. (<note place="inline"><bibl><edition>Eng. Tr.</edition> <author>Cécile Hugon</author>, <respStmt><resp>rev.</resp> <editor>Alfred F. Schuster</editor></respStmt>, <date>1916</date></bibl>. <bibl><edition>This rpt. </edition><pubPlace>New York</pubPlace>: <publisher>Haskell House</publisher>, <date>1964</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_cro1810"><author>Croft, John</author>. <title level="m">Annotations on Plays of Shakespear</title>. <pubPlace>York</pubPlace>, <date>1810</date>.</bibl>
 
@@ -803,7 +803,7 @@
 
 <bibl xml:id="b_dodm39"><author>Dodds, M. H.</author> <title level="a">The Age of Shakespeare’s Characters.</title> <title level="j">N&amp;Q</title> <biblScope type="vol">177</biblScope> (<date>1939</date>), <biblScope type="pages">197</biblScope>.</bibl>
 
-<bibl xml:id="b_dodr1578"><author>Dodoens, Rembert</author>. <title level="m">A Niewe Herball, or Historie of Plantes</title>. Tr. <translator>Henry Lyte</translator>. <date>1578</date>. (<note place="inline"><bibl><edition>Corrected and amended ed.</edition> <date>1619</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_dodr1578"><author>Dodoens, Rembert</author>. <title level="m">A Niewe Herball, or Historie of Plantes</title>. Tr. <author>Henry Lyte</author>. <date>1578</date>. (<note place="inline"><bibl><edition>Corrected and amended ed.</edition> <date>1619</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_dol93"><author>Dolan, Frances E.</author> <title level="a">Taking the Pencil out of God’s Hand: Art, Nature, and the Face-Painting Debate in Early Modern England.</title> <title level="j">PMLA</title> <biblScope type="vol">108</biblScope> (<date>1993</date>), <biblScope type="pages">224–39</biblScope>.</bibl>
 
@@ -855,7 +855,7 @@
 
 <bibl xml:id="b_dyc1859"><author display="book(ldash)">Dyce, Alexander</author>. <title level="m">Strictures on Mr. Collier’s New Edition of Shakespeare, 1858</title>. <date>1859</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1971</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_dyc1831"><editor display="book(ldash)">Dyce, Alexander</editor>, ed. <title level="m">The Dramatic Works of Robert Greene</title>. <extent>2 vols.</extent> <date>1831</date>.</bibl>
+<bibl xml:id="b_dyc1831"><author display="book(ldash)">Dyce, Alexander</author>, ed. <title level="m">The Dramatic Works of Robert Greene</title>. <extent>2 vols.</extent> <date>1831</date>.</bibl>
 
 <bibl xml:id="b_dye1889"><author>Dyer, T[homas] F. Thiselton</author>. <title level="m">The Folk-lore of Plants</title>. <date>1889</date>. (<note place="inline"><bibl>Rpt. <pubPlace>Detroit</pubPlace>: <publisher>Singing Tree</publisher>, <date>1968</date>.</bibl></note>)</bibl>
 
@@ -875,7 +875,7 @@
 
 <bibl xml:id="b_eccm33"><author display="book(ldash)">Eccles, Mark</author>. <title level="a">Sir George Buc, Master of the Revels.</title> <title level="m">Thomas Lodge and Other Elizabethans</title>. Ed. <editor>Charles J. Sisson</editor>. <pubPlace>Cambridge, Mass.</pubPlace>, <date>1933</date>. <biblScope type="pages">Pp. 409–73</biblScope> (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Octagon Books</publisher>, <date>1966</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_eccm80"><editor display="book(ldash)">Eccles, Mark</editor>, ed. <title level="m">Measure for Measure</title>. <title level="s">A New Variorum Ed. of Sh.</title> <pubPlace>New York</pubPlace>, <date>1980</date>.</bibl>
+<bibl xml:id="b_eccm80"><author display="book(ldash)">Eccles, Mark</author>, ed. <title level="m">Measure for Measure</title>. <title level="s">A New Variorum Ed. of Sh.</title> <pubPlace>New York</pubPlace>, <date>1980</date>.</bibl>
 
 <bibl xml:id="b_edd1898"><author><hi rend="italic">EDD</hi></author>. <note place="inline"><hi rend="italic">See</hi> <ref targType="bibl" target="#b_wrij1898">Wright, Joseph</ref></note></bibl>
 
@@ -919,7 +919,7 @@
 
 <bibl xml:id="b_elz1876"><author>Elze, K[arl]</author>. <title level="a">Noten und Conjecturen zu Shakespeare.</title> <title level="j">SJ</title> <biblScope type="vol">11</biblScope> (<date>1876</date>), <biblScope type="pages">274–300</biblScope>.</bibl>
 
-<bibl xml:id="b_elz1873"><author display="book(ldash)">Elze, K[arl]</author>. <title level="a">Shakespeare’s muthmassliche Reisen.</title> <title level="j">SJ</title> <biblScope type="vol">8</biblScope> (<date>1873</date>), <biblScope type="pages">46–91</biblScope>. (<note place="inline"><bibl>Tr. <translator>L. Dora Schmitz</translator> as <title level="a">The Supposed Travels of Shakespeare,</title> <title level="m">Essays on Shakespeare</title>, <date>[1874]</date>, <biblScope type="pages">pp. 254–315</biblScope>.</bibl> <bibl><title level="m">Essays</title> rpt. <pubPlace>Port Washington, N.Y.</pubPlace>: <publisher>Kennikat</publisher>, <date>1970</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_elz1873"><author display="book(ldash)">Elze, K[arl]</author>. <title level="a">Shakespeare’s muthmassliche Reisen.</title> <title level="j">SJ</title> <biblScope type="vol">8</biblScope> (<date>1873</date>), <biblScope type="pages">46–91</biblScope>. (<note place="inline"><bibl>Tr. <author>L. Dora Schmitz</author> as <title level="a">The Supposed Travels of Shakespeare,</title> <title level="m">Essays on Shakespeare</title>, <date>[1874]</date>, <biblScope type="pages">pp. 254–315</biblScope>.</bibl> <bibl><title level="m">Essays</title> rpt. <pubPlace>Port Washington, N.Y.</pubPlace>: <publisher>Kennikat</publisher>, <date>1970</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_emp86"><author>Empson, William</author>. <title level="a">Hunt the Symbol.</title> <title level="m">Essays on Shakespeare</title>. Ed. <editor>David B. Pirie</editor>. <pubPlace>Cambridge</pubPlace>, <date>1986</date>. <biblScope type="pages">Pp. 231–43</biblScope>. (<note place="inline"><bibl>First pub. <date>1964</date>.</bibl></note>)</bibl>
 
@@ -949,7 +949,7 @@
 
 <bibl xml:id="b_evag67"><author>Evans, G. Blakemore</author>. <title level="a">New Evidence on the Provenance of the Padua Prompt-Books of Shakespeare’s&hellip;<title level="m">Winter’s Tale</title>.</title> <title level="j">SB</title> <biblScope type="vol">20</biblScope> (<date>1967</date>), <biblScope type="pages">239–42</biblScope>.</bibl>
 
-<bibl xml:id="b_evag63"><editor display="book(ldash)">Evans, G. Blakemore</editor>, ed. <title level="j">Shakespearean Prompt-Books of the Seventeenth Century</title> <biblScope type="vol">1</biblScope>.<biblScope type="part">1</biblScope> (<date>1960</date>), <biblScope type="pages">3–24</biblScope>; <biblScope type="vol">2</biblScope>.<biblScope type="part">1</biblScope> (<date>1963</date>), <biblScope type="pages">19–29</biblScope>.</bibl>
+<bibl xml:id="b_evag63"><author display="book(ldash)">Evans, G. Blakemore</author>, ed. <title level="j">Shakespearean Prompt-Books of the Seventeenth Century</title> <biblScope type="vol">1</biblScope>.<biblScope type="part">1</biblScope> (<date>1960</date>), <biblScope type="pages">3–24</biblScope>; <biblScope type="vol">2</biblScope>.<biblScope type="part">1</biblScope> (<date>1963</date>), <biblScope type="pages">19–29</biblScope>.</bibl>
 
 <bibl xml:id="b_evan82"><author>Evans, G. L.</author> <note place="inline"><hi rend="italic">See</hi> <ref targType="bibl" target="#b_llog82">Lloyd Evans, Gareth</ref>.</note></bibl>
 
@@ -1101,7 +1101,7 @@
 
 <bibl xml:id="b_fur1886"><author display="book(ldash)">Furnivall, Frederick J.</author> <title level="a">Scraps.</title> <title level="m">The New Shakspere Society’s Transactions. 1880–6</title>. <date>[1886.]</date> <biblScope type="pages">P. 646</biblScope>.</bibl>
 
- <bibl xml:id="b_fur1874"><author display="book(ldash)">Furnivall, Frederick J.</author> <title level="m">The Succession of Shakspere’s Works</title>. <date>1874</date>. (<note place="inline">Separate pub. of the introduction to <bibl><author>G. G. Gervinus</author>, <title level="m">Commentaries on Shakspere</title>, tr. <translator>Fanny E. Bunnètt</translator>, <date>1874</date></bibl>. <bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1972</date>.</bibl></note>)</bibl>
+ <bibl xml:id="b_fur1874"><author display="book(ldash)">Furnivall, Frederick J.</author> <title level="m">The Succession of Shakspere’s Works</title>. <date>1874</date>. (<note place="inline">Separate pub. of the introduction to <bibl><author>G. G. Gervinus</author>, <title level="m">Commentaries on Shakspere</title>, tr. <author>Fanny E. Bunnètt</author>, <date>1874</date></bibl>. <bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1972</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_fur1878"><author display="book(ldash)">Furnivall, Frederick J.</author> <title level="a">Winter’s Tale.</title> <biblScope type="series">5</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">10</biblScope> (<date>1878</date>), <biblScope type="pages">244</biblScope>.</bibl>
 
@@ -1143,7 +1143,7 @@
 
 <bibl xml:id="b_ger1597"><author>Gerard, John</author>. <title level="m">The Herball or Generall Historie of Plantes</title>. <date>1597</date>.</bibl>
 
-<bibl xml:id="b_gerg1877"><author>Gervinus, G[eorg] G.</author> <title level="m">Shakespeare Commentaries</title>. Tr. <translator>F[anny] E. Bunnètt</translator>. <edition>Rev. ed.</edition> <pubPlace>London &amp; New York</pubPlace>, <date>1877</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1971</date></bibl>. <bibl><edition>1st Eng. ed.</edition> <note place="inline">2 vols</note>, <date>1863</date>.</bibl> <bibl><edition>1st Ger. ed.</edition> <pubPlace>Leipzig</pubPlace>, <date>1849–50</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_gerg1877"><author>Gervinus, G[eorg] G.</author> <title level="m">Shakespeare Commentaries</title>. Tr. <author>F[anny] E. Bunnètt</author>. <edition>Rev. ed.</edition> <pubPlace>London &amp; New York</pubPlace>, <date>1877</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1971</date></bibl>. <bibl><edition>1st Eng. ed.</edition> <note place="inline">2 vols</note>, <date>1863</date>.</bibl> <bibl><edition>1st Ger. ed.</edition> <pubPlace>Leipzig</pubPlace>, <date>1849–50</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_ges70"><author>Gesner, Carol</author>. <title level="m">Shakespeare and the Greek Romance: A Study of Origins</title>. <pubPlace>Lexington, Ky.</pubPlace>, <date>1970</date>.</bibl>
 
@@ -1163,7 +1163,7 @@
 
 <bibl xml:id="b_gok63"><author>Gokak, V. K.</author> <title level="a">The Structure of Daffodils in <title level="m">The Winter’s Tale</title>.</title> <title level="j">Literary Criterion</title> <biblScope type="vol">6</biblScope>, <biblScope type="issue">No. 1</biblScope> (<date>1963</date>), <biblScope type="pages">137–52</biblScope>.</bibl>
 
-<bibl xml:id="b_gol1567"><translator>Golding, Arthur</translator>, tr. <title level="m">Ovid’s Metamorphoses</title>. <date>1567</date>. Ed. <editor>John Frederick Nims</editor>. <pubPlace>New York</pubPlace>, <date>1965</date>. <note place="inline"><bibl>Ed. <editor>W. H. D. Rouse</editor>. <pubPlace>New York</pubPlace>, <date>1966</date>.</bibl></note></bibl>
+<bibl xml:id="b_gol1567"><author>Golding, Arthur</author>, tr. <title level="m">Ovid’s Metamorphoses</title>. <date>1567</date>. Ed. <editor>John Frederick Nims</editor>. <pubPlace>New York</pubPlace>, <date>1965</date>. <note place="inline"><bibl>Ed. <editor>W. H. D. Rouse</editor>. <pubPlace>New York</pubPlace>, <date>1966</date>.</bibl></note></bibl>
 
 <bibl xml:id="b_golm72"><author>Goldman, Michael</author>. <title level="m">Shakespeare and the Energies of Drama</title>. <pubPlace>Princeton</pubPlace>, <date>1972</date>.</bibl>
 
@@ -1411,7 +1411,7 @@
 
 <bibl xml:id="b_higp82"><editor>Highfill, Philip H., Jr.</editor>, ed. <title level="m">Shakespeare’s Craft: Eight Lectures</title>. <pubPlace>Carbondale, Ill.</pubPlace>, <date>1982</date>.</bibl>
 
-<bibl xml:id="b_higp73"><author display="book(ldash)">Highfill, Philip H., Jr.</author>, <author>Kalman A. Burnim</author>, &amp; <author>Edward A. Langhans</author>. <title level="m">A Biographical Dictionary of Actors&hellip;in London, 1660–1800</title>. <extent>16 vols.</extent> <pubPlace>Carbondale &amp; Edwardsville, Ill.</pubPlace>, <date>1973–93</date>.</bibl>
+<bibl xml:id="b_higp73"><author display="book(ldash)">Highfill, Philip H., Jr</author>, <author>Kalman A. Burnim</author>, &amp; <author>Edward A. Langhans</author>. <title level="m">A Biographical Dictionary of Actors&hellip;in London, 1660–1800</title>. <extent>16 vols.</extent> <pubPlace>Carbondale &amp; Edwardsville, Ill.</pubPlace>, <date>1973–93</date>.</bibl>
 
 <bibl xml:id="b_hil79"><author>Hillman, Richard W.</author> <title level="a">The <quote>Gillyvors</quote> Exchange in <title level="m">The Winter’s Tale</title>.</title> <title level="j">ESC</title> <biblScope type="vol">5</biblScope> (<date>1979</date>), <biblScope type="pages">16–23</biblScope>.</bibl>
 
@@ -1491,7 +1491,7 @@
 
 <bibl xml:id="b_hos71"><author>Hosley, Richard</author>. <title level="a">The Playhouses and the Stage.</title> <title level="m">A New Companion to Shakespeare Studies</title>. Ed. <editor>Kenneth Muir</editor> &amp; <editor>S. Schoenbaum</editor>. <pubPlace>Cambridge</pubPlace>, <date>1971</date>. <biblScope type="pages">Pp. 15–34</biblScope>.</bibl>
 
-<bibl xml:id="b_hos67"><editor display="book(ldash)">Hosley, Richard</editor>, ed. <title level="m"><title level="m">Oberon, the Fairy Prince</title> by Ben Jonson. A Book of Masques in Honour of Allardyce Nicoll</title>. <pubPlace>Cambridge</pubPlace>, <date>1967</date>. <biblScope type="pages">Pp. 43–70</biblScope>.</bibl>
+<bibl xml:id="b_hos67"><author display="book(ldash)">Hosley, Richard</author>, ed. <title level="m"><title level="m">Oberon, the Fairy Prince</title> by Ben Jonson. A Book of Masques in Honour of Allardyce Nicoll</title>. <pubPlace>Cambridge</pubPlace>, <date>1967</date>. <biblScope type="pages">Pp. 43–70</biblScope>.</bibl>
 
 <bibl xml:id="b_hot67"><author>Hotine, Kate</author>. <title level="a">Shakespeare’s <title level="m">Winter’s Tale</title>.</title> <title level="j">ConR</title> <biblScope type="vol">211</biblScope> (<date>1967</date>), <biblScope type="pages">46–8</biblScope>.</bibl>
 
@@ -1533,7 +1533,7 @@
 
 <bibl xml:id="b_hug40"><author>Hughes, Merritt Y.</author> <title level="a">A Classical <hi rend="italic">vs.</hi> a Social Approach to Shakspere’s Autolycus.</title> <title level="j">ShAB</title> <biblScope type="vol">15</biblScope> (<date>1940</date>), <biblScope type="pages">219–26</biblScope>.</bibl>
 
-<bibl xml:id="b_hugf1868"><translator>Hugo, François-Victor</translator>, tr. <title level="m">Œuvres Complètes de W. Shakespeare</title>. <extent>18 vols.</extent> <pubPlace>Paris</pubPlace>, <date>1865–73</date>. <biblScope type="vol">Vol. 4</biblScope>, <date>1868</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <pubPlace>Paris</pubPlace>, <date>1859–66</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_hugf1868"><author>Hugo, François-Victor</author>, tr. <title level="m">Œuvres Complètes de W. Shakespeare</title>. <extent>18 vols.</extent> <pubPlace>Paris</pubPlace>, <date>1865–73</date>. <biblScope type="vol">Vol. 4</biblScope>, <date>1868</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <pubPlace>Paris</pubPlace>, <date>1859–66</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_hul62"><author>Hulme, Hilda M.</author> <title level="m">Explorations in Shakespeare’s Language</title>. <date>1962</date>.</bibl>
 
@@ -1551,9 +1551,9 @@
 
 <bibl xml:id="b_hung64"><author>Hunter, G[eorge] K.</author> <title level="a">Elizabethans and Foreigners.</title> <title level="j">ShS</title> <biblScope type="vol">17</biblScope> (<date>1964</date>), <biblScope type="pages">37–52</biblScope>.</bibl>
 
-<bibl xml:id="b_hung62"><editor display="book(ldash)">Hunter, G[eorge] K.</editor>, ed. <title level="m">All’s Well That Ends Well</title>. <title level="s">New Arden Sh.</title>, <date>1962</date>.</bibl>
+<bibl xml:id="b_hung62"><author display="book(ldash)">Hunter, G[eorge] K.</author>, ed. <title level="m">All’s Well That Ends Well</title>. <title level="s">New Arden Sh.</title>, <date>1962</date>.</bibl>
 
-<bibl xml:id="b_hung75"><editor display="book(ldash)">Hunter, G[eorge] K.</editor>, ed. <title level="m">The Malcontent</title>. By <author>John Marston</author>. <title level="s">The Revels Plays</title>. <date>1975</date>.</bibl>
+<bibl xml:id="b_hung75"><author display="book(ldash)">Hunter, G[eorge] K.</author>, ed. <title level="m">The Malcontent</title>. By <author>John Marston</author>. <title level="s">The Revels Plays</title>. <date>1975</date>.</bibl>
 
 <bibl xml:id="b_hunj1845"><author>Hunter, Joseph</author>. <title level="m">New Illustrations of the Life, Studies, and Writings of Shakespeare</title>. <extent>2 vols.</extent> <date>1845</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1976</date>.</bibl></note>)</bibl>
 
@@ -1651,7 +1651,7 @@
 
 <bibl xml:id="b_jus07a"><author>Jusserand, J[ean] J.</author> <title level="a">Ben Jonson’s Views on Shakespeare’s Art.</title> <title level="m">The Works of William Shakespeare</title>. Ed. <editor>A. H. Bullen</editor>. <extent>10 vols.</extent> <date>1904–7</date>. <biblScope type="vol">10</biblScope> (<date>1907</date>): <biblScope type="pages">297–319</biblScope>. (<note place="inline"><bibl>Rpt. in <author>Jusserand</author>, <title level="m">The School for Ambassadors and Other Essays</title>, <date>1925</date>, <biblScope type="pages">pp. 255–88</biblScope></bibl>; <bibl>rpt. <pubPlace>Freeport, N.Y.</pubPlace>: <publisher>Books for Libraries</publisher>, <date>1968</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_jus1890"><author display="book(ldash)">Jusserand, J[ean] J.</author> <title level="m">The English Novel in the Time of Shakespeare</title>. Tr. <translator>Elizabeth Lee</translator>. <date>1890</date>. (<note place="inline"><bibl><edition>New ed.</edition> <date>1966</date></bibl>; <bibl><edition>1st Fr. ed.</edition> <date>1887</date></bibl>.</note>)</bibl>
+<bibl xml:id="b_jus1890"><author display="book(ldash)">Jusserand, J[ean] J.</author> <title level="m">The English Novel in the Time of Shakespeare</title>. Tr. <author>Elizabeth Lee</author>. <date>1890</date>. (<note place="inline"><bibl><edition>New ed.</edition> <date>1966</date></bibl>; <bibl><edition>1st Fr. ed.</edition> <date>1887</date></bibl>.</note>)</bibl>
 
 <bibl xml:id="b_jus07b"><author display="book(ldash)">Jusserand, J[ean] J.</author> <rs>Introduction.</rs> <title level="m">Winter’s Tale</title>. <title level="m">Works</title>. Ed. <editor>Sidney Lee</editor>. <extent>40 vols.</extent> <pubPlace>New York</pubPlace>, <date>1907–9</date>. <biblScope type="vol">15</biblScope> (<date>1907</date>): <biblScope type="pages">ix–xlv</biblScope>.</bibl>
 
@@ -1681,7 +1681,7 @@
 
 <bibl xml:id="b_kay77"><author>Kay, Carol McG.</author> <title level="a">Alabama Shakespeare Festival.</title> <title level="j">SQ</title> <biblScope type="vol">28</biblScope> (<date>1977</date>), <biblScope type="pages">220–3</biblScope>.</bibl>
 
-<bibl xml:id="b_kay78"><editor display="book(ldash)">Kay, Carol McG.</editor> &amp; <editor>Henry E. Jacobs</editor>, eds. <title level="m">Shakespeare’s Romances Reconsidered</title>. <pubPlace>Lincoln, Nebr.</pubPlace>, <date>1978</date>.</bibl>
+<bibl xml:id="b_kay78"><author display="book(ldash)">Kay, Carol McG.</author> &amp; <editor>Henry E. Jacobs</editor>, eds. <title level="m">Shakespeare’s Romances Reconsidered</title>. <pubPlace>Lincoln, Nebr.</pubPlace>, <date>1978</date>.</bibl>
 
 <bibl xml:id="b_kea1856"><author>Kean, Charles</author>. <rs>Preface</rs>. <title level="m"><title level="m">The Winter’s Tale</title>&hellip;As First Performed on Monday, April 28th, 1856</title>. <date>[1856.]</date> <biblScope type="pages">Pp. v–x</biblScope>. (<note place="inline"><bibl>Rpt. <pubPlace>Cornmarket</pubPlace>, <date>1970</date>.</bibl></note>)</bibl>
 
@@ -1709,7 +1709,7 @@
 
 <bibl xml:id="b_ker63"><author>Kermode, Frank</author>. <title level="m">Shakespeare: The Final Plays</title>. <title level="s">Writers and Their Work</title> <biblScope type="vol">155</biblScope>. <date>1963</date>.</bibl>
 
-<bibl xml:id="b_ker54"><editor display="book(ldash)">Kermode, Frank</editor>, ed. <title level="m">The Tempest</title>. By <author>William Shakespeare</author>. <title level="s">Arden Sh.</title> <pubPlace>Cambridge, Mass.</pubPlace>, <date>1954</date>.</bibl>
+<bibl xml:id="b_ker54"><author display="book(ldash)">Kermode, Frank</author>, ed. <title level="m">The Tempest</title>. By <author>William Shakespeare</author>. <title level="s">Arden Sh.</title> <pubPlace>Cambridge, Mass.</pubPlace>, <date>1954</date>.</bibl>
 
 <bibl xml:id="b_kera75"><author>Kernan, Alvin</author>. <title level="a">The plays and playwrights.</title> <title level="m">The Revels History of Drama in English</title>. Ed. <editor>J[ohn] Leeds Barroll</editor> <editor>et al.</editor> <extent>8 vols.</extent> <date>1975–83</date>. <biblScope type="vol">3</biblScope> (<date>1975</date>): <biblScope type="pages">237–474</biblScope>.</bibl>
 
@@ -1757,7 +1757,7 @@
 
 <bibl xml:id="b_knor00"><author>Knowles, Richard</author>. <note place="inline">Private contributor.</note></bibl>
 
-<bibl xml:id="b_knor77"><editor display="book(ldash)">Knowles, Richard</editor>, ed. <title level="m">As You Like It</title>. <title level="s">A New Variorum Ed. of Sh.</title> <pubPlace>New York</pubPlace>, <date>1977</date>.</bibl>
+<bibl xml:id="b_knor77"><author display="book(ldash)">Knowles, Richard</author>, ed. <title level="m">As You Like It</title>. <title level="s">A New Variorum Ed. of Sh.</title> <pubPlace>New York</pubPlace>, <date>1977</date>.</bibl>
 
 <bibl xml:id="b_know85"><author>Knowles, Richard P.</author> <title level="a">History as Metaphor: Daphne Dare’s Late 19th- and Early 20th-Century Settings for Shakespeare at Stratford, Ontario, 1975–1980.</title> <title level="j">THSt</title> <biblScope type="vol">5</biblScope> (<date>1985</date>), <biblScope type="pages">20–40</biblScope>.</bibl>
 
@@ -1829,7 +1829,7 @@
 
 <bibl xml:id="b_latk84"><author>Latimer, Kathleen</author>. <title level="a">The Communal Action of <title level="m">The Winter’s Tale</title>.</title> <title level="m">The Terrain of Comedy</title>. Ed. <editor>Louise Cowan</editor>. <pubPlace>Dallas</pubPlace>, <date>1984</date>. <biblScope type="pages">Pp. 125–42</biblScope>.</bibl>
 
-<bibl xml:id="b_lav1572"><author>Lavater, Lewes [i.e., Ludwig]</author>. <title level="m">Of Ghostes and Spirites Walking by Nyght</title>. Tr. <translator>R. H.</translator> <date>1572</date>. Ed. <editor>J. Dover Wilson</editor> &amp; <editor>May Yardley</editor>. <pubPlace>Oxford</pubPlace>, <date>1929</date>.</bibl>
+<bibl xml:id="b_lav1572"><author>Lavater, Lewes [i.e., Ludwig]</author>. <title level="m">Of Ghostes and Spirites Walking by Nyght</title>. Tr. <author>R. H.</author> <date>1572</date>. Ed. <editor>J. Dover Wilson</editor> &amp; <editor>May Yardley</editor>. <pubPlace>Oxford</pubPlace>, <date>1929</date>.</bibl>
 
 <bibl xml:id="b_law51"><author>Law, Robert Adger</author>. <title level="a">On Certain Proper Names in Shakespeare.</title> <title level="j">Studies in English</title> <biblScope type="vol">30</biblScope> (<date>1951</date>), <biblScope type="pages">61–5</biblScope>.</bibl>
 
@@ -1859,7 +1859,7 @@
 
 <bibl xml:id="b_leec58"><author display="book(ldash)">Leech, Clifford</author>. <title level="m">The Structure of the Last Plays</title>. <title level="j">ShS</title> <biblScope type="vol">11</biblScope> (<date>1958</date>), <biblScope type="pages">19–30</biblScope>.</bibl>
 
-<bibl xml:id="b_leec58a"><editor display="book(ldash)">Leech, Clifford</editor>, &amp; <editor>Alice Shalvi</editor>, eds. <title level="m">Shakespeare 1971: Proceedings of the World Shakespeare Congress, Vancouver, August 1971</title>. <publisher>Toronto</publisher>, <date>1972</date>.</bibl>
+<bibl xml:id="b_leec58a"><author display="book(ldash)">Leech, Clifford</author>, &amp; <editor>Alice Shalvi</editor>, eds. <title level="m">Shakespeare 1971: Proceedings of the World Shakespeare Congress, Vancouver, August 1971</title>. <publisher>Toronto</publisher>, <date>1972</date>.</bibl>
 
 <bibl xml:id="b_leef76"><author>Lees, Francis N.</author> <title level="a">Plutarch and <title level="m">The Winter’s Tale</title>.</title> <title level="j">N&amp;Q</title> <biblScope type="vol">221</biblScope> (<date>1976</date>), <biblScope type="pages">161–2</biblScope>.</bibl>
 
@@ -1889,7 +1889,7 @@
 
 <bibl xml:id="b_levm78"><author>Levith, Murray J.</author> <title level="m">What’s in Shakespeare’s Names</title>. <pubPlace>Hamden, Conn.</pubPlace>, <date>1978</date>.</bibl>
 
-<bibl xml:id="b_lew1894"><author>Lewes, Louis</author>. <title level="m">The Women of Shakespeare</title>. Tr. <translator>Helen Zimmern</translator>. <date>1894</date>. (<note place="inline"><bibl><edition>1st Ger. ed.</edition> <date>1893</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_lew1894"><author>Lewes, Louis</author>. <title level="m">The Women of Shakespeare</title>. Tr. <author>Helen Zimmern</author>. <date>1894</date>. (<note place="inline"><bibl><edition>1st Ger. ed.</edition> <date>1893</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_lewj1828"><author>Lewis, [John Delaware? (<date>1828–84</date>)]</author>. <note place="inline">Contributor to <siglum rend="smcaps">cam1</siglum>.</note></bibl>
 
@@ -1909,7 +1909,7 @@
 
 <bibl xml:id="b_lit16"><author>Littledale, H[arold]</author>. <title level="a">Folklore and Superstitions: Ghosts and Fairies: Witchcraft and Devils.</title> <title level="m">Shakespeare’s England</title>. Ed. <editor>Sidney Lee</editor> &amp; <editor>C[harles] T. Onions</editor>. <extent>2 vols.</extent> <publisher>OUP</publisher>, <date>1916</date>. <biblScope type="vol">1</biblScope>:<biblScope type="pages">516–46</biblScope>.</bibl>
 
-<bibl xml:id="b_lit1876"><editor display="book(ldash)">Littledale, H[arold]</editor>, ed. <title level="m">The Two Noble Kinsmen</title>. By <author>William Shakspere</author> &amp; <author>John Fletcher</author>. <note place="inline">2 Pts.</note> <biblScope type="part">Pt. 1</biblScope>. <edition>Revised Text and Notes.</edition> <date>1876</date>.</bibl>
+<bibl xml:id="b_lit1876"><author display="book(ldash)">Littledale, H[arold]</author>, ed. <title level="m">The Two Noble Kinsmen</title>. By <author>William Shakspere</author> &amp; <author>John Fletcher</author>. <note place="inline">2 Pts.</note> <biblScope type="part">Pt. 1</biblScope>. <edition>Revised Text and Notes.</edition> <date>1876</date>.</bibl>
 
 <bibl xml:id="b_litt82"><author>Littlefield, T. H.</author> <title level="a">Shakespeare in Upstate New York.</title> <title level="j">SQ</title> <biblScope type="vol">33</biblScope> (<date>1982</date>), <biblScope type="pages">207–8</biblScope>.</bibl>
 
@@ -1937,7 +1937,7 @@
 
 <bibl xml:id="b_lov48"><author>Lovejoy, Arthur O.</author> <title level="m">Essays in the History of Ideas</title>. <pubPlace>Baltimore</pubPlace>, <date>1948</date>.</bibl>
 
-<bibl xml:id="b_lov35"><author display="book(ldash)">Lovejoy, Arthur O.</author>, &amp; <author>George Boas</author>. <title level="m">Primitivism and Related Ideas in Antiquity</title>. <biblScope type="vol">Vol. 1</biblScope> of <title level="s">A Documentary History of Primitivism &amp; Related Ideas</title>. <pubPlace>Baltimore</pubPlace>, <date>1935</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Octagon</publisher>, <date>1965</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_lov35"><author display="book(ldash)">Lovejoy, Arthur O</author>, &amp; <author>George Boas</author>. <title level="m">Primitivism and Related Ideas in Antiquity</title>. <biblScope type="vol">Vol. 1</biblScope> of <title level="s">A Documentary History of Primitivism &amp; Related Ideas</title>. <pubPlace>Baltimore</pubPlace>, <date>1935</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Octagon</publisher>, <date>1965</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_lud74"><author>Ludwig, Jay B.</author> <title level="a">Shakespearean Decorum: An Essay on <title level="m">The Winter’s Tale</title>.</title> <title level="j">Style</title> <biblScope type="vol">8</biblScope> (<date>1974</date>), <biblScope type="pages">365–404</biblScope>.</bibl>
 
@@ -2053,7 +2053,7 @@
 
 <bibl xml:id="b_max58"><author display="book(ldash)">Maxwell, J[ames] C. (<date>1916–76</date>)</author>. <rs>Rev</rs>. of <name>Kenneth Muir</name>, <title level="m">Shakespeare’s Sources. Vol. I: Comedies and Tragedies</title>. <title level="j">RES</title> <biblScope type="series">NS</biblScope> <biblScope type="vol">9</biblScope> (<date>1958</date>), <biblScope type="pages">314–16</biblScope>.</bibl>
 
-<bibl xml:id="b_max60"><editor display="book(ldash)">Maxwell, J[ames] C. (<date>1916–76</date>)</editor>, ed. <title level="m">Cymbeline</title>. <title level="s">New [Cambridge] Sh.</title> <date>1960</date>.</bibl>
+<bibl xml:id="b_max60"><author display="book(ldash)">Maxwell, J[ames] C. (<date>1916–76</date>)</author>, ed. <title level="m">Cymbeline</title>. <title level="s">New [Cambridge] Sh.</title> <date>1960</date>.</bibl>
 
 <bibl xml:id="b_mcc1888"><author>McClenthen, F. C.</author> <title level="a">A Passage in <title level="m">The Winter’s Tale</title> [575–7].</title> <title level="j">Shakespeariana</title> <biblScope type="vol">5</biblScope> (<date>1888</date>), <biblScope type="pages">168–9</biblScope>.</bibl>
 
@@ -2099,7 +2099,7 @@
 
 <bibl xml:id="b_men67a"><author>Mendilow, Adam A.</author> <title level="a">Two Notes on Shakespeare.</title> <title level="m">Studies in the Drama</title> <title level="s">Scripta Hierosolymitana</title> <biblScope type="vol">19</biblScope>. Ed. <editor>Arieh Sachs</editor>. <pubPlace>Jerusalem</pubPlace>, <date>1967</date>. <biblScope type="pages">Pp. 262–8</biblScope>.</bibl>
 
-<bibl xml:id="b_men67b"><author display="book(ldash)">Mendilow, Adam A.</author>, &amp; <author>Alice Shalvi</author>. <title level="m">The World and Art of Shakespeare</title>. <pubPlace>New York</pubPlace>, <date>1967</date>.</bibl>
+<bibl xml:id="b_men67b"><author display="book(ldash)">Mendilow, Adam A</author>, &amp; <author>Alice Shalvi</author>. <title level="m">The World and Art of Shakespeare</title>. <pubPlace>New York</pubPlace>, <date>1967</date>.</bibl>
 
 <bibl xml:id="b_menr64"><author>Mendl, R[obert] W. S.</author> <title level="m">Revelation in Shakespeare</title>. <date>1964</date>.</bibl>
 
@@ -2177,7 +2177,7 @@
 
 <bibl xml:id="b_mui74"><author display="book(ldash)">Muir, Kenneth</author>. <title level="a">Theophanies in the Last Plays.</title> <title level="m">Shakespeare’s Late Plays: Essays in Honor of Charles Crow</title>. Ed. <editor>Richard C. Tobias</editor> &amp; <editor>Paul G. Zolbrod</editor>. <pubPlace>Athens, Ohio</pubPlace>, <date>1974</date>. <biblScope type="pages">Pp. 32–43</biblScope>.</bibl>
 
-<bibl xml:id="b_mui71"><editor display="book(ldash)">Muir, Kenneth</editor>, &amp; <editor>S[amuel] Schoenbaum</editor>, eds. <title level="m">A New Companion to Shakespeare Studies</title>. <pubPlace>Cambridge</pubPlace>, <date>1971</date>.</bibl>
+<bibl xml:id="b_mui71"><author display="book(ldash)">Muir, Kenneth</author>, &amp; <editor>S[amuel] Schoenbaum</editor>, eds. <title level="m">A New Companion to Shakespeare Studies</title>. <pubPlace>Cambridge</pubPlace>, <date>1971</date>.</bibl>
 
 <bibl xml:id="b_mur1801"><author>Murphy, Arthur</author>. <title level="m">Life of David Garrick Esq</title>. <extent>2 vols.</extent> <date>1801</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York &amp; London</pubPlace>: <publisher>Blom</publisher>, <date>1969</date>.</bibl></note>)</bibl>
 
@@ -2197,7 +2197,7 @@
 
 <bibl xml:id="b_nat68"><author>Nathan, Norman</author>. <title level="a">Leontes’ Provocations.</title> <title level="j">SQ</title> <biblScope type="vol">19</biblScope> (<date>1968</date>), <biblScope type="pages">19–24</biblScope>.</bibl>
 
-<bibl xml:id="b_nat57"><author>Nathan, Norman</author>. <title level="a">Widowers and Their Wife’s Funeral.</title> <title level="j">N&amp;Q</title> <biblScope type="vol">202</biblScope> (<date>1957</date>), <biblScope type="pages">458</biblScope>.</bibl>
+<bibl xml:id="b_nat57"><author display="book(ldash)">Nathan, Norman</author>. <title level="a">Widowers and Their Wife’s Funeral.</title> <title level="j">N&amp;Q</title> <biblScope type="vol">202</biblScope> (<date>1957</date>), <biblScope type="pages">458</biblScope>.</bibl>
 
 <bibl xml:id="b_nay31"><author>Naylor, Edward W.</author> <title level="m">Shakespeare and Music</title>. <edition>New ed.</edition> <date>1931</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Da Capo Press &amp; Blom</publisher>, <date>1965</date>.</bibl> <bibl><edition>1st ed.</edition> <date>1896</date>.</bibl></note>)</bibl>
 
@@ -2257,7 +2257,7 @@
 
 <bibl xml:id="b_nos65"><author display="book(ldash)">Nosworthy, J. M.</author> <title level="m">Shakespeare’s Occasional Plays: Their Origin and Transmission</title>. <date>1965</date>.</bibl>
 
-<bibl xml:id="b_nos55"><editor display="book(ldash)">Nosworthy, J. M.</editor>, ed. <title level="m">Cymbeline</title>. <title level="s">Arden Sh.</title> <date>1955</date>.</bibl>
+<bibl xml:id="b_nos55"><author display="book(ldash)">Nosworthy, J. M.</author>, ed. <title level="m">Cymbeline</title>. <title level="s">Arden Sh.</title> <date>1955</date>.</bibl>
 
 <bibl xml:id="b_nov84"><author>Novy, Marianne</author>. <title level="m">Love’s Argument: Gender Relations in Shakespeare</title>. <pubPlace>Chapel Hill</pubPlace>, <date>1984</date>.</bibl>
 
@@ -2287,7 +2287,7 @@
 
 <bibl xml:id="b_org91"><author display="book(ldash)">Orgel, Stephen</author>. <title level="a">The Poetics of Incomprehensibility.</title> <title level="j">SQ</title> <biblScope type="vol">42</biblScope> (<date>1991</date>), <biblScope type="pages">431–7</biblScope>.</bibl>
 
-<bibl xml:id="b_org87"><editor display="book(ldash)">Orgel, Stephen</editor>, ed. <title level="m">The Tempest</title>. <title level="s">Oxford Sh.</title> <pubPlace>Oxford</pubPlace>, <date>1987</date>.</bibl>
+<bibl xml:id="b_org87"><author display="book(ldash)">Orgel, Stephen</author>, ed. <title level="m">The Tempest</title>. <title level="s">Oxford Sh.</title> <pubPlace>Oxford</pubPlace>, <date>1987</date>.</bibl>
 
 <bibl xml:id="b_org73"><author display="book(ldash)">Orgel, Stephen</author>, &amp; <author>Roy Strong</author>. <title level="m">Inigo Jones: The Theatre of the Stuart Court</title>. <extent>2 vols.</extent> <date>1973</date>.</bibl>
 
@@ -2463,7 +2463,7 @@
 
 <bibl xml:id="b_ran85"><author display="book(ldash)">Randall, Dale B. J.</author> <title level="a"><quote>This Is the Chase</quote>: Or, The Further Pursuit of Shakespeare’s Bear.</title> <title level="j">SJW</title> <biblScope type="vol">121</biblScope> (<date>1985</date>), <biblScope type="pages">89–95</biblScope>.</bibl>
 
-<bibl xml:id="b_rano92"><author>Rank, Otto</author>. <title level="m">The Incest Theme in Literature and Legend</title>. Tr. <translator>Gregory C. Richter</translator>. <pubPlace>Baltimore</pubPlace>, <date>1992</date>. (<note place="inline"><bibl><edition>1st Ger. ed.</edition> <date>1912</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_rano92"><author>Rank, Otto</author>. <title level="m">The Incest Theme in Literature and Legend</title>. Tr. <author>Gregory C. Richter</author>. <pubPlace>Baltimore</pubPlace>, <date>1992</date>. (<note place="inline"><bibl><edition>1st Ger. ed.</edition> <date>1912</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_ranr1893"><author>Ranney, R. H.</author> <title level="a">Shakespeare and Psychical Research.</title> <title level="j">Religio-Philosophical Jour.</title>, <biblScope type="vol">30</biblScope> <date>Dec. 1893</date>, <biblScope type="pages">pp. 500–1</biblScope>.</bibl>
 
@@ -2569,7 +2569,7 @@
 
 <bibl xml:id="b_rot81"><author>Rothwell, Kenneth S.</author> <title level="a">The Shakespeare Plays: <title level="m">Hamlet</title> and the Five Plays of Season Three.</title> <title level="j">SQ</title> <biblScope type="vol">32</biblScope> (<date>1981</date>), <biblScope type="pages">395–401</biblScope>.</bibl>
 
-<bibl xml:id="b_rot90"><author display="book(ldash)">Rothwell, Kenneth S.</author>, &amp; <author>Annabelle H. Melzer</author>. <title level="m">Shakespeare on Screen: An International Filmography and Videography</title>. <date>1990</date>.</bibl>
+<bibl xml:id="b_rot90"><author display="book(ldash)">Rothwell, Kenneth S</author>, &amp; <author>Annabelle H. Melzer</author>. <title level="m">Shakespeare on Screen: An International Filmography and Videography</title>. <date>1990</date>.</bibl>
 
 <bibl xml:id="b_rou04"><author>Rouse, W[illiam] H. D.</author> <title level="m">Shakespeare’s Ovid Being Arthur Golding’s [1567] Translation of the Metamorphoses</title>. <date>1904</date>. (<note place="inline"><bibl>Rpt. <pubPlace>Carbondale</pubPlace>: <publisher>Southern Ill. Univ. Press</publisher>, <date>1961</date>.</bibl></note>)</bibl>
 
@@ -2645,13 +2645,13 @@
 
 <bibl xml:id="b_sche64"><author display="book(ldash)">Schanzer, Ernest</author>. <title level="a">The Structural Pattern of <title level="m">The Winter’s Tale</title>.</title> <title level="j">REL</title> <biblScope type="vol">5</biblScope>, <biblScope type="issue">No. 2</biblScope> (<date>1964</date>), <biblScope type="pages">72–82</biblScope>. (<note place="inline"><bibl>Rpt. in <title level="m">Shakespeare: A Casebook, The Winter’s Tale</title>, <editor>Kenneth Muir</editor>, <date>1968</date>, <biblScope type="pages">pp. 87–97</biblScope>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_schf08"><author>Schelling, Felix E.</author> <title level="m">Elizabethan Drama, 1558–1642</title> <extent>2 vols.</extent> <pubPlace>Boston &amp; New York</pubPlace>, <date>1908</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Russell &amp; Russell</publisher>, <date>1959</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_schf08"><author>Schelling, Felix E.</author> <title level="m">Elizabethan Drama, 1558–1642.</title> <extent>2 vols.</extent> <pubPlace>Boston &amp; New York</pubPlace>, <date>1908</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Russell &amp; Russell</publisher>, <date>1959</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_schf28"><author display="book(ldash)">Schelling, Felix E.</author> <title level="m">English Literature During the Lifetime of Shakespeare</title>. <edition>Rev. ed.</edition> <pubPlace>New York</pubPlace>, <date>1928</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1910</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_schf23"><author display="book(ldash)">Schelling, Felix E.</author> <title level="m">Foreign Influences in Elizabethan Plays</title>. <pubPlace>New York &amp; London</pubPlace>, <date>1923</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1971</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_scha1846"><author>Schlegel, August W. von</author>. <title level="m">Course of Lectures on Dramatic Art and Literature</title>. Tr. <translator>John Black</translator>, <respStmt><resp>rev.</resp> <translator>A. J. W. Morrison</translator></respStmt>. <date>1846</date>. (<note place="inline"><bibl><note place="inline">Delivered</note> <date>1808</date></bibl>; <bibl><edition>1st German ed.</edition> <extent>2 vols.</extent>, <date>1809–11</date>.</bibl> <bibl><edition>1846 ed. rpt.</edition> <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1965</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_scha1846"><author>Schlegel, August W. von</author>. <title level="m">Course of Lectures on Dramatic Art and Literature</title>. Tr. <author>John Black</author>, <respStmt><resp>rev.</resp> <author>A. J. W. Morrison</author></respStmt>. <date>1846</date>. (<note place="inline"><bibl><note place="inline">Delivered</note> <date>1808</date></bibl>; <bibl><edition>1st German ed.</edition> <extent>2 vols.</extent>, <date>1809–11</date>.</bibl> <bibl><edition>1846 ed. rpt.</edition> <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1965</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_schm1874"><author>Schmidt, Alexander</author>. <title level="m">Shakespeare-Lexicon</title>. <extent>2 vols.</extent> <pubPlace>Berlin</pubPlace>, <date>1874–5</date>. (<note place="inline"><bibl><edition>2nd ed.</edition> <date>1886</date></bibl>; <bibl><edition>3rd ed.</edition>, <respStmt><resp>enl. by</resp> <author>Gregor Sarrazin</author></respStmt>, <date>1902</date>, <note place="inline"><bibl>rpt. <pubPlace>New York</pubPlace>: <publisher>Dover</publisher>, <date>1971</date></bibl></note></bibl>.</note>)</bibl>
 
@@ -2803,7 +2803,7 @@
 
 <bibl xml:id="b_smit63"><author>Smith, Charles G.</author> <title level="m">Shakespeare’s Proverb Lore: His Use of the <title level="m">Sententiae</title> of Leonard Culman and Publilius Syrus</title>. <pubPlace>Cambridge, Mass.</pubPlace>, <date>1963</date>.</bibl>
 
-<bibl xml:id="b_smitc1874"><author>Smith, C[harles] Roach</author>. <title level="m">The Rural Life of Shakespeare</title>. <edition>2nd ed.</edition> <date>1874</date> <extent>[65 &plus;3 pp.]</extent>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1874</date> [<extent>40 pp.</extent>.</bibl></note>)</bibl>
+<bibl xml:id="b_smitc1874"><author>Smith, C[harles] Roach</author>. <title level="m">The Rural Life of Shakespeare</title>. <edition>2nd ed.</edition> <date>1874</date> <extent>[65 &plus;3 pp.]</extent>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1874</date> [<extent>40 pp.</extent></bibl></note>)</bibl>
 
 <bibl xml:id="b_smih63"><author>Smith, Hallett</author>. <title level="a">Leontes’ <hi rend="italic">Affectio</hi></title>. <title level="j">SQ</title> <biblScope type="vol">14</biblScope> (<date>1963</date>), <biblScope type="pages">163–6</biblScope>.</bibl>
 
@@ -2845,7 +2845,7 @@
 
 <bibl xml:id="b_sorw57"><author>Sorell, Walter</author>. <title level="a">Shakespeare and the Dance.</title> <title level="j">SQ</title> <biblScope type="vol">8</biblScope> (<date>1957</date>), <biblScope type="pages">367–84</biblScope>.</bibl>
 
-<bibl xml:id="b_sou1807"><editor>Southey, Robert</editor>, ed. <title level="m">Palmerin of England, by Francisco de Moraes</title>. Tr. <translator>Anthony Munday</translator>. <extent>4 vols.</extent> <date>1807</date>. (<note place="inline"><bibl><respStmt><resp>Preface by</resp> <name>Southey</name></respStmt>, <biblScope type="vol">1</biblScope>:<biblScope type="pages">vii–xlv</biblScope>.</bibl></note>)</bibl>
+<bibl xml:id="b_sou1807"><editor>Southey, Robert</editor>, ed. <title level="m">Palmerin of England, by Francisco de Moraes</title>. Tr. <author>Anthony Munday</author>. <extent>4 vols.</extent> <date>1807</date>. (<note place="inline"><bibl><respStmt><resp>Preface by</resp> <name>Southey</name></respStmt>, <biblScope type="vol">1</biblScope>:<biblScope type="pages">vii–xlv</biblScope>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_spe60"><author>Speaight, Robert W.</author> <title level="a">The 1960 Season at Stratford-upon-Avon.</title> <title level="j">SQ</title> <biblScope type="vol">11</biblScope> (<date>1960</date>), <biblScope type="pages">445–53</biblScope>.</bibl>
 
@@ -2897,13 +2897,13 @@
 
 <bibl xml:id="b_spr70"><author display="book(ldash)">Sprague, Arthur Colby</author>, &amp; <author>J[ohn] C. Trewin</author>. <title level="m">Shakespeare’s Plays Today: Some Customs and Conventions of the Stage</title>. <date>1970</date>.</bibl>
 
-<bibl xml:id="b_spu35"><author>Spurgeon, Caroline F. E.</author> <title level="m">Shakespeare’s Imagery and What It Tells Us</title>. <pubPlace>Cambridge</pubPlace>, <date>1935.</date>.</bibl>
+<bibl xml:id="b_spu35"><author>Spurgeon, Caroline F. E.</author> <title level="m">Shakespeare’s Imagery and What It Tells Us</title>. <pubPlace>Cambridge</pubPlace>, <date>1935.</date></bibl>
 
-<bibl xml:id="b_squ35"><author>Squire, John</author>. <title level="m">Shakespeare as a Dramatist</title>. <date>[1935.]</date>.</bibl>
+<bibl xml:id="b_squ35"><author>Squire, John</author>. <title level="m">Shakespeare as a Dramatist</title>. <date>[1935.]</date></bibl>
 
 <bibl xml:id="b_squw16"><author>Squire, W. Barclay</author>. <title level="a">Music.</title> <title level="m">Shakespeare’s England</title>. Ed. <editor>Sidney Lee</editor> &amp; <editor>C[harles] T. Onions</editor>. <extent>2 vols.</extent> <publisher>OUP</publisher>, <date>1916</date>. <biblScope type="vol">2</biblScope>:<biblScope type="pages">15–49</biblScope>.</bibl>
 
-<bibl xml:id="b_sta1880"><author>Stapfer, Paul</author>. <title level="m">Shakespeare and Classical Antiquity</title>. Tr. <translator>Emily J. Carey</translator>. <date>1880</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Burt Franklin</publisher>, <date>1970</date>.</bibl> <bibl>Orig. pub. as <title level="m">Shakespeare et l’antiquité</title>. <extent>2 vols.</extent> <pubPlace>Paris</pubPlace>, <date>1879–80</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_sta1880"><author>Stapfer, Paul</author>. <title level="m">Shakespeare and Classical Antiquity</title>. Tr. <author>Emily J. Carey</author>. <date>1880</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Burt Franklin</publisher>, <date>1970</date>.</bibl> <bibl>Orig. pub. as <title level="m">Shakespeare et l’antiquité</title>. <extent>2 vols.</extent> <pubPlace>Paris</pubPlace>, <date>1879–80</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_stad45"><author>Starnes, D[e Witt] T.</author> <title level="a">Shakespeare and Apuleius.</title> <title level="j">PMLA</title> <biblScope type="vol">60</biblScope> (<date>1945</date>), <biblScope type="pages">1021–50</biblScope>.</bibl>
 
@@ -3149,7 +3149,7 @@
 
 <bibl xml:id="b_tyr1766"><author display="book(ldash)">Tyrwhitt, Thomas (<date>1730–86</date>)</author>. <title level="m">Observations and Conjectures upon Some Passages of Shakespeare</title>. <publisher>Oxford</publisher>, <date>1766</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1974</date>.</bibl></note>)</bibl>
 
- <bibl xml:id="b_ulr1846"><author>Ulrici, Hermann</author>. <title level="m">Shakspeare’s Dramatic Art</title>. <respStmt><resp>Tr. from 1st Ger. ed. by</resp> <translator>A. J. W. M[orrison]</translator></respStmt>. <date>1846</date>. <respStmt><resp>Tr. from 3rd Ger. ed. by</resp> <translator>L. Dora Schmitz</translator></respStmt>. <extent>2 vols.</extent> <date>1876</date>. (<note place="inline"><bibl><edition>1st Ger. ed.</edition> <date>1839</date></bibl>; <bibl><edition>3rd ed.</edition> <date>1868–9</date></bibl>.</note>)</bibl>
+ <bibl xml:id="b_ulr1846"><author>Ulrici, Hermann</author>. <title level="m">Shakspeare’s Dramatic Art</title>. <respStmt><resp>Tr. from 1st Ger. ed. by</resp> <author>A. J. W. M[orrison]</author></respStmt>. <date>1846</date>. <respStmt><resp>Tr. from 3rd Ger. ed. by</resp> <author>L. Dora Schmitz</author></respStmt>. <extent>2 vols.</extent> <date>1876</date>. (<note place="inline"><bibl><edition>1st Ger. ed.</edition> <date>1839</date></bibl>; <bibl><edition>3rd ed.</edition> <date>1868–9</date></bibl>.</note>)</bibl>
 
 <bibl xml:id="b_und16"><author>Underhill, Arthur</author>. <title level="a">Law.</title> <title level="m">Shakespeare’s England</title>. Ed. <editor>Sidney Lee</editor> &amp; <editor>C[harles] T. Onions</editor>. <extent>2 vols.</extent> <publisher>OUP</publisher>, <date>1916</date>. <biblScope type="vol">1</biblScope>:<biblScope type="pages">381–412</biblScope>.</bibl>
 
@@ -3249,7 +3249,7 @@
 
 <bibl xml:id="b_wart1728"><author>Warton, Thomas (<date>1728–90</date>)</author>. <note place="inline">Contributor to <siglum rend="smcaps">john</siglum>, <siglum>v1785</siglum>, <siglum rend="smcaps">mal</siglum>.</note></bibl>
 
-<bibl xml:id="b_wart1785"><editor display="book(ldash)">Warton, Thomas (<date>1728–90</date>)</editor>, ed. <title level="m">Poems Upon Several Occasions&hellip;by John Milton</title>. <date>1785</date>.</bibl>
+<bibl xml:id="b_wart1785"><author display="book(ldash)">Warton, Thomas (<date>1728–90</date>)</author>, ed. <title level="m">Poems Upon Several Occasions&hellip;by John Milton</title>. <date>1785</date>.</bibl>
 
 <bibl xml:id="b_wat50"><author>Watkins, Ronald</author>. <title level="m">On Producing Shakespeare</title>. <date>1950</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>Blom</publisher>, <date>1964</date>.</bibl></note>)</bibl>
 
@@ -3309,7 +3309,7 @@
 
 <bibl xml:id="b_wha1722"><author>Whalley, Peter (<date>1722–91</date>)</author>. <note place="inline">Contributor to <siglum>v1785</siglum>, <siglum>v1793</siglum>.</note></bibl>
 
-<bibl xml:id="b_wha1756"><editor display="book(ldash)">Whalley, Peter (<date>1722–91</date>)</editor>, ed. <title level="m">The Works of Ben. Jonson</title>. <extent>7 vols.</extent> <date>1756</date>.</bibl>
+<bibl xml:id="b_wha1756"><author display="book(ldash)">Whalley, Peter (<date>1722–91</date>)</author>, ed. <title level="m">The Works of Ben. Jonson</title>. <extent>7 vols.</extent> <date>1756</date>.</bibl>
 
 <bibl xml:id="b_whe80"><author>Wheeler, Richard P.</author> <title level="a"><quote>Since first we were dissevered</quote>: Trust and Autonomy in Shakespearean Tragedy and Romance.</title> <title level="m">Representing Shakespeare</title>. Ed. <editor>Murray M. Schwartz</editor> &amp; <editor>Coppélia Kahn</editor>. <pubPlace>Baltimore</pubPlace>, <date>1980</date>. <biblScope type="pages">Pp. 150–169</biblScope>. (<note place="inline"><bibl>Incorporated into <title level="a"><quote>Since first we were dissevered</quote>: Trust and Autonomy in Shakespeare’s Development,</title> <title level="m">Shakespeare’s Development and the Problem Comedies</title>, <pubPlace>Berkeley</pubPlace>, <date>1981</date>, <biblScope type="pages">pp. 154–221</biblScope>.</bibl></note>)</bibl>
 
