@@ -1551,9 +1551,9 @@
 
 <bibl xml:id="b_hung64"><author>Hunter, G[eorge] K.</author> <title level="a">Elizabethans and Foreigners.</title> <title level="j">ShS</title> <biblScope type="vol">17</biblScope> (<date>1964</date>), <biblScope type="pages">37–52</biblScope>.</bibl>
 
-<bibl xml:id="b_hung62"><author display="book(ldash)">Hunter, G[eorge] K.</author>, ed. <title level="m">All’s Well That Ends Well</title>. <title level="s">New Arden Sh.</title>, <date>1962</date>.</bibl>
+<bibl xml:id="b_hung62"><author display="book(ldash)">Hunter, G[eorge] K</author>, ed. <title level="m">All’s Well That Ends Well</title>. <title level="s">New Arden Sh.</title>, <date>1962</date>.</bibl>
 
-<bibl xml:id="b_hung75"><author display="book(ldash)">Hunter, G[eorge] K.</author>, ed. <title level="m">The Malcontent</title>. By <author>John Marston</author>. <title level="s">The Revels Plays</title>. <date>1975</date>.</bibl>
+<bibl xml:id="b_hung75"><author display="book(ldash)">Hunter, G[eorge] K</author>, ed. <title level="m">The Malcontent</title>. By <author>John Marston</author>. <title level="s">The Revels Plays</title>. <date>1975</date>.</bibl>
 
 <bibl xml:id="b_hunj1845"><author>Hunter, Joseph</author>. <title level="m">New Illustrations of the Life, Studies, and Writings of Shakespeare</title>. <extent>2 vols.</extent> <date>1845</date>. (<note place="inline"><bibl>Rpt. <pubPlace>New York</pubPlace>: <publisher>AMS</publisher>, <date>1976</date>.</bibl></note>)</bibl>
 
@@ -2257,7 +2257,7 @@
 
 <bibl xml:id="b_nos65"><author display="book(ldash)">Nosworthy, J. M.</author> <title level="m">Shakespeare’s Occasional Plays: Their Origin and Transmission</title>. <date>1965</date>.</bibl>
 
-<bibl xml:id="b_nos55"><author display="book(ldash)">Nosworthy, J. M.</author>, ed. <title level="m">Cymbeline</title>. <title level="s">Arden Sh.</title> <date>1955</date>.</bibl>
+<bibl xml:id="b_nos55"><author display="book(ldash)">Nosworthy, J. M</author>, ed. <title level="m">Cymbeline</title>. <title level="s">Arden Sh.</title> <date>1955</date>.</bibl>
 
 <bibl xml:id="b_nov84"><author>Novy, Marianne</author>. <title level="m">Love’s Argument: Gender Relations in Shakespeare</title>. <pubPlace>Chapel Hill</pubPlace>, <date>1984</date>.</bibl>
 
