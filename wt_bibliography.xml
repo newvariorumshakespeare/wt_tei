@@ -87,41 +87,41 @@
 
 <bibl xml:id="b_anon1863"><author>Anon.</author> <note place="inline">Contributor to <siglum rend="smcaps">cam1</siglum>.</note></bibl>
 
-<bibl xml:id="b_anon1863a"><author>Anon.</author> <note place="inline">Contributor to <siglum rend="smcaps">cam2</siglum>.</note></bibl>
+<bibl xml:id="b_anon1863a"><author display="book(ldash)">Anon.</author> <note place="inline">Contributor to <siglum rend="smcaps">cam2</siglum>.</note></bibl>
 
-<bibl xml:id="b_anon1864"><author>Anon.</author> <note place="inline">Contributor to <siglum rend="smcaps">dyce2</siglum>.</note></bibl>
+<bibl xml:id="b_anon1864"><author display="book(ldash)">Anon.</author> <note place="inline">Contributor to <siglum rend="smcaps">dyce2</siglum>.</note></bibl>
 
-<bibl xml:id="b_anon1864a"><author>Anon.</author> <note place="inline">Contributor to <siglum rend="smcaps">hal</siglum>.</note></bibl>
+<bibl xml:id="b_anon1864a"><author display="book(ldash)">Anon.</author> <note place="inline">Contributor to <siglum rend="smcaps">hal</siglum>.</note></bibl>
 
-<bibl xml:id="b_anon1864b"><author>Anon.</author> <note place="inline">Contributor to <siglum>m<hi rend="smcaps">per</hi></siglum>.</note></bibl>
+<bibl xml:id="b_anon1864b"><author display="book(ldash)">Anon.</author> <note place="inline">Contributor to <siglum>m<hi rend="smcaps">per</hi></siglum>.</note></bibl>
 
-<bibl xml:id="b_anon1864c"><author>Anon.</author> <note place="inline">Contributor to <siglum>v1898</siglum>.</note></bibl>
+<bibl xml:id="b_anon1864c"><author display="book(ldash)">Anon.</author> <note place="inline">Contributor to <siglum>v1898</siglum>.</note></bibl>
 
-<bibl xml:id="b_anon1572"><author>Anon.</author> <title level="m">Amadis of Fraunce, The Treasurie of</title>. <respStmt><resp>Tr. out of French</resp> [by <author>T. Paynell</author>]</respStmt>. <date>[1572?]</date>.</bibl>
+<bibl xml:id="b_anon1572"><author display="book(ldash)">Anon.</author> <title level="m">Amadis of Fraunce, The Treasurie of</title>. <respStmt><resp>Tr. out of French</resp> [by <author>T. Paynell</author>]</respStmt>. <date>[1572?]</date>.</bibl>
 
-<bibl xml:id="b_anon00"><author>Anon.</author> <note place="inline">Anonymous MS notes in <siglum>F2</siglum> quoted in <siglum rend="smcaps">sing2</siglum>.</note></bibl>
+<bibl xml:id="b_anon00"><author display="book(ldash)">Anon.</author> <note place="inline">Anonymous MS notes in <siglum>F2</siglum> quoted in <siglum rend="smcaps">sing2</siglum>.</note></bibl>
 
-<bibl xml:id="b_anon57"><author>Anon.</author> <title level="a">The Backward Half-Look.</title> <title level="j">TLS</title>, <date>1 Nov. 1957</date>, <biblScope type="pages">p. 656</biblScope>.</bibl>
+<bibl xml:id="b_anon57"><author display="book(ldash)">Anon.</author> <title level="a">The Backward Half-Look.</title> <title level="j">TLS</title>, <date>1 Nov. 1957</date>, <biblScope type="pages">p. 656</biblScope>.</bibl>
 
-<bibl xml:id="b_anon29a"><author>Anon.</author> <title level="a">English Sculpture in English Literature.</title> <title level="j">TLS</title>, <date>18 July 1929</date>, <biblScope type="pages">pp. 565–6</biblScope>.</bibl>
+<bibl xml:id="b_anon29a"><author display="book(ldash)">Anon.</author> <title level="a">English Sculpture in English Literature.</title> <title level="j">TLS</title>, <date>18 July 1929</date>, <biblScope type="pages">pp. 565–6</biblScope>.</bibl>
 
-<bibl xml:id="b_anon1891"><author>Anon.</author> <title level="a">Notes and News.</title> <title level="j">Poet Lore</title> <biblScope type="vol">3</biblScope> (<date>1891</date>), <biblScope type="pages">224–5</biblScope>.</bibl>
+<bibl xml:id="b_anon1891"><author display="book(ldash)">Anon.</author> <title level="a">Notes and News.</title> <title level="j">Poet Lore</title> <biblScope type="vol">3</biblScope> (<date>1891</date>), <biblScope type="pages">224–5</biblScope>.</bibl>
 
-<bibl xml:id="b_anon1845"><author>Anon.</author> <title level="a">Recent Editions of Shakspeare.</title> <title level="j">The Edinburgh Review</title> <biblScope type="vol">81</biblScope> (<date>1845</date>), <biblScope type="pages">172–202</biblScope>.</bibl>
+<bibl xml:id="b_anon1845"><author display="book(ldash)">Anon.</author> <title level="a">Recent Editions of Shakspeare.</title> <title level="j">The Edinburgh Review</title> <biblScope type="vol">81</biblScope> (<date>1845</date>), <biblScope type="pages">172–202</biblScope>.</bibl>
 
-<bibl xml:id="b_anon29b"><author>Anon.</author> <rs>Rev.</rs> of <title level="m">The Works of William Shakespeare</title>, ed. <editor>William Aldis Wright</editor>, <biblScope type="vol">vol. 3</biblScope>. <biblScope type="series">7</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">12</biblScope> (<date>1891</date>), <biblScope type="pages">160</biblScope>.</bibl>
+<bibl xml:id="b_anon29b"><author display="book(ldash)">Anon.</author> <rs>Rev.</rs> of <title level="m">The Works of William Shakespeare</title>, ed. <editor>William Aldis Wright</editor>, <biblScope type="vol">vol. 3</biblScope>. <biblScope type="series">7</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">12</biblScope> (<date>1891</date>), <biblScope type="pages">160</biblScope>.</bibl>
 
-<bibl xml:id="b_anon30"><author>Anon.</author> <title level="a">Shakespeare and Natural Phenomena.</title> <title level="j">TLS</title>, <date>13 Feb. 1930</date>, <biblScope type="pages">p. 121</biblScope>.</bibl>
+<bibl xml:id="b_anon30"><author display="book(ldash)">Anon.</author> <title level="a">Shakespeare and Natural Phenomena.</title> <title level="j">TLS</title>, <date>13 Feb. 1930</date>, <biblScope type="pages">p. 121</biblScope>.</bibl>
 
-<bibl xml:id="b_anon1853"><author>Anon.</author> <title level="a">Shakespeare, and the New Discovery.</title> <title level="j">Fraser’s Mag</title>. <biblScope type="vol">47</biblScope> (<date>1853</date>), <biblScope type="pages">245–56</biblScope>.</bibl>
+<bibl xml:id="b_anon1853"><author display="book(ldash)">Anon.</author> <title level="a">Shakespeare, and the New Discovery.</title> <title level="j">Fraser’s Mag</title>. <biblScope type="vol">47</biblScope> (<date>1853</date>), <biblScope type="pages">245–56</biblScope>.</bibl>
 
-<bibl xml:id="b_anon1802"><author>Anon.</author> <title level="a">Shakespeare’s <title level="m">Winter’s Tale</title>.</title> <title level="j">Gent. Mag</title>. <biblScope type="vol">72</biblScope> (<date>1802</date>), <biblScope type="pages">231–2</biblScope>.</bibl>
+<bibl xml:id="b_anon1802"><author display="book(ldash)">Anon.</author> <title level="a">Shakespeare’s <title level="m">Winter’s Tale</title>.</title> <title level="j">Gent. Mag</title>. <biblScope type="vol">72</biblScope> (<date>1802</date>), <biblScope type="pages">231–2</biblScope>.</bibl>
 
-<bibl xml:id="b_anon1811"><author>Anon.</author> <title level="a">Shakespeare Vindicated.</title> <title level="j">Monthly Mag</title>. <biblScope type="vol">30</biblScope> (<date>1 Jan. 1811</date>), <biblScope type="pages">538</biblScope>.</bibl>
+<bibl xml:id="b_anon1811"><author display="book(ldash)">Anon.</author> <title level="a">Shakespeare Vindicated.</title> <title level="j">Monthly Mag</title>. <biblScope type="vol">30</biblScope> (<date>1 Jan. 1811</date>), <biblScope type="pages">538</biblScope>.</bibl>
 
-<bibl xml:id="b_anon1599"><author>Anon.</author> <title level="m">The Thracian Wonder: A Comical History</title> <date>1599(?)</date>. <title level="m">The Dramatic Works of John Webster</title>. Ed. <editor>William Hazlitt</editor>. <extent>4 vols.</extent> <date>1857</date> <biblScope type="vol">4</biblScope>:<biblScope type="pages">115–212</biblScope>.</bibl>
+<bibl xml:id="b_anon1599"><author display="book(ldash)">Anon.</author> <title level="m">The Thracian Wonder: A Comical History</title> <date>1599(?)</date>. <title level="m">The Dramatic Works of John Webster</title>. Ed. <editor>William Hazlitt</editor>. <extent>4 vols.</extent> <date>1857</date> <biblScope type="vol">4</biblScope>:<biblScope type="pages">115–212</biblScope>.</bibl>
 
-<bibl xml:id="b_anon1601"><author>Anon.</author> <title level="m">The Trial of Chivalry</title>. <date>1601(?)</date>. <title level="m">Three Centuries of Drama</title>. Ed. <editor>Henry W. Wells</editor>. <date>1895</date>. <biblScope type="pages">Pp. 124–41</biblScope>.</bibl>
+<bibl xml:id="b_anon1601"><author display="book(ldash)">Anon.</author> <title level="m">The Trial of Chivalry</title>. <date>1601(?)</date>. <title level="m">Three Centuries of Drama</title>. Ed. <editor>Henry W. Wells</editor>. <date>1895</date>. <biblScope type="pages">Pp. 124–41</biblScope>.</bibl>
 
 <bibl xml:id="b_ans79"><author>Ansari, A. A.</author> <title level="a">The Mockery of Art in <title level="m">The Winter’s Tale</title>.</title> <title level="j">Aligarh Jour. of English Stud.</title> <biblScope type="vol">4</biblScope> (<date>1979</date>), <biblScope type="pages">124–41</biblScope>.</bibl>
 
@@ -475,7 +475,7 @@
 
 <bibl xml:id="b_cac1725"><author>C., A. (poss. Anthony Chamier, <date>1725–80</date>)</author>. <note place="inline">Contributor to <siglum rend="smcaps">mal</siglum>.</note></bibl>
 
-<bibl xml:id="b_cpa1892"><author>C., P. A. [<hi rend="italic">sic</hi>]</author>. <title level="a">A Study of Shakespeare’s <title level="m">Winter’s Tale</title>: Considered in Connection with Greene’s <title level="m">Pandosto</title> and the <title level="m">Alkestis</title> of Euripides.</title> <title level="j">Poet Lore</title> <biblScope type="vol">4</biblScope> (<date>1892</date>), <biblScope type="pages">516–21</biblScope>. (<note place="inline"><bibl>Rpt. with slight revisions as by <author>Charlotte Porter</author> &amp; <author>Helen A. Clarke</author> in <title level="j">Poet Lore</title> <biblScope type="vol">14</biblScope> <date>[1903]</date>, <biblScope type="pages">132–7</biblScope>.</bibl></note>)</bibl>
+<bibl xml:id="b_cpa1892"><author>C., P. A. [<i>sic</i>]</author>. <title level="a">A Study of Shakespeare’s <title level="m">Winter’s Tale</title>: Considered in Connection with Greene’s <title level="m">Pandosto</title> and the <title level="m">Alkestis</title> of Euripides.</title> <title level="j">Poet Lore</title> <biblScope type="vol">4</biblScope> (<date>1892</date>), <biblScope type="pages">516–21</biblScope>. (<note place="inline"><bibl>Rpt. with slight revisions as by <author>Charlotte Porter</author> &amp; <author>Helen A. Clarke</author> in <title level="j">Poet Lore</title> <biblScope type="vol">14</biblScope> <date>[1903]</date>, <biblScope type="pages">132–7</biblScope>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_cai72"><author>Cairncross, Andrew S.</author> <title level="a">Compositors E and F of the Shakespeare First Folio.</title> <title level="j">PBSA</title> <biblScope type="vol">66</biblScope> (<date>1972</date>), <biblScope type="pages">369–406</biblScope>.</bibl>
 
@@ -709,7 +709,7 @@
 
 <bibl xml:id="b_cunc72"><author>Cunnington, C[ecil] Willet</author>, &amp; <author>Phillis Cunnington</author>. <title level="m">Handbook of English Costume in the Seventeenth Century</title>. <pubPlace>Boston</pubPlace>, <date>1972</date>.</bibl>
 
-<bibl xml:id="b_cunc70"><nvsSeg type="rend" display="book(ldash)"><author>Cunnington, C[ecil] Willet</author> &amp; <author>Phillis Cunnington</author></nvsSeg>. <title level="m">Handbook of English Costume in the Sixteenth Century</title>. <edition>Rev. ed.</edition> <date>1970</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1954</date>.</bibl></note>)</bibl>
+ <bibl xml:id="b_cunc70"><author display="book(ldash)">Cunnington, C[ecil] Willet, &amp; Phillis Cunnington</author>. <title level="m">Handbook of English Costume in the Sixteenth Century</title>. <edition>Rev. ed.</edition> <date>1970</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1954</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_cur80"><author>Curtis, Harry, Jr</author>. <title level="a">The Year Growing Ancient: Formal Ambiguity in <title level="m">The Winter’s Tale</title>.</title> <title level="j">CLAJ</title> <biblScope type="vol">23</biblScope> (<date>1980</date>), <biblScope type="pages">431–7</biblScope>.</bibl>
 
