@@ -36,7 +36,19 @@
 <titlePart type="volume">The Winter’s Tale</titlePart>
 </docTitle>
 
-<byline><hi rend="italic">Edited by</hi> <lb/><editor role="primary">Robert Kean Turner</editor> <lb/><editor role="primary">Virginia Westling Haas</editor> <lb/><hi rend="italic">with</hi> <lb/><editor role="secondary">Robert A. Jones</editor> <lb/><editor role="secondary">Andrew J. Sabol</editor> <lb/><editor role="secondary">Patricia E. Tatspaugh</editor></byline>
+<byline>
+  <p>
+    <hi rend="italic">Edited by</hi><lb/>
+    <editor role="primary">Robert Kean Turner</editor><lb/>
+    <editor role="primary">Virginia Westling Haas</editor><lb/>
+  </p>
+  <p>
+    <hi rend="italic">with</hi><lb/>
+    <editor role="secondary">Robert A. Jones</editor><lb/>
+    <editor role="secondary">Andrew J. Sabol</editor><lb/>
+    <editor role="secondary">Patricia E. Tatspaugh</editor>
+  </p>
+</byline>
 
 <docImprint>
 <publisher>The Modern Language Association of America</publisher>
