@@ -36,7 +36,19 @@
 <titlePart type="volume">The Winter’s Tale</titlePart>
 </docTitle>
 
-<byline><hi rend="italic">Edited by</hi> <lb/><editor role="primary">Robert Kean Turner</editor> <lb/><editor role="primary">Virginia Westling Haas</editor> <lb/><hi rend="italic">with</hi> <lb/><editor role="secondary">Robert A. Jones</editor> <lb/><editor role="secondary">Andrew J. Sabol</editor> <lb/><editor role="secondary">Patricia E. Tatspaugh</editor></byline>
+<byline>
+  <p>
+    <hi rend="italic">Edited by</hi><lb/>
+    <editor role="primary">Robert Kean Turner</editor><lb/>
+    <editor role="primary">Virginia Westling Haas</editor><lb/>
+  </p>
+  <p>
+    <hi rend="italic">with</hi><lb/>
+    <editor role="secondary">Robert A. Jones</editor><lb/>
+    <editor role="secondary">Andrew J. Sabol</editor><lb/>
+    <editor role="secondary">Patricia E. Tatspaugh</editor>
+  </p>
+</byline>
 
 <docImprint>
 <publisher>The Modern Language Association of America</publisher>
@@ -230,8 +242,22 @@
 <p>Financial aid for this edition was provided by the National Endowment for the Humanities, the Folger Shakespeare Library, the John Simon Guggenheim Memorial Foundation, the American Philosophical Society, the American Council of Learned Societies, the Newberry Library Renaissance Consortium, and the Modern Language Association of America (Phyllis Franklin, executive director). Libraries at which research was done include the Folger Shakespeare Library; the Furness Memorial Library of the University of Pennsylvania; the New York Public Library; the British Library; the Bodleian Library; the Cambridge University Library; the Libraries of the Shakespeare Centre, Trinity College and Pembroke College, Cambridge; the University of London; the Research Services Department of the Theatre Museum (Victoria and Albert Museum); the Library of the Garrick Club; and the Hampden Booth Theatre Library. Their hospitality is greatly appreciated. The Beinecke Library, Yale University Library, and the Henry E. Huntington Library supplied information, and among the individuals who helped in various ways are Walter S. Achtert, Stephen Booth, Fredson Bowers, Gerry Flynn, Philip Gaskell, Joseph Gibaldi, Charlton Hinman, Cyrus Hoy, Taro Kusanagi, James G. McManaway, Barbara A. Mowat, Marvin Spevack, Judith Cook Svenheim, Roy Swanson, John Velz, George Walton Williams, and George T. Wright. I especially want to thank Patricia Rieselbach and James P. Hammersmith for their excellent assistance. Richard Knowles, the general editor of the New Variorum Shakespeare, made innumerable improvements, caught many mistakes, contributed his own critical ideas and evaluations, and in general shaped this edition much for the better. More recently, Paul Werstine, his fellow general editor, began to do the same. Virginia Haas and I are grateful to them both. We are also obliged to Susan Joseph, our copy editor, whose sharp eye saved us from error and sharp mind gave rise to a number of changes for the better.</p>
 
 <closer><signed>Robert Kean Turner</signed></closer>
-</div>
 
+</div>
+  
+<div type="acknowledgements" xml:id="div_acknowledgements">
+    
+<head>Acknowledgements for the Digital Edition</head>
+    
+<p>The production of each NVS digital edition was conducted by a team of scholars and researchers and made possible by the Modern Language Association’s Executive Council that awarded the Center of Digital Humanities Research (CoDHR) at Texas A&amp;M a grant to publish NVS editions online, making them freely available to scholars, educators, students, and performers via an open access, interactive web application. Each digital edition contains the complete text of each play along with a full collation of textual notes from the earliest editions to the present, including extensive previous commentary.</p>
+    
+<p>The physical Variorum volume includes a CD-ROM that contains an XML-encoded version of the contents, rendering the work as a PDF that is text-searchable with internal links for easy navigation. A special thanks to Julia Flanders, Professor of the Practice in English and the director of the Digital Scholarship Group in the Northeastern University Library, for XML-encoding the physical volume and for consulting with the NVS team at CoDHR who used the XML-encoded text to publish this edition online at https://newvariorumshakespeare.org/.</p>
+    
+<p>This digital edition was launched in beta at the World Shakespeare Congress (WSC) in Singapore by the NVS team, which at that time included Laura Mandell (Principal Investigator and CoDHR Director), Katayoun Torabi (Project Manager), Anne Burdick (NVS site designer and Chair of Media Design Practices at ArtCenter College of Design in Los Angeles), Bryan Tarpley (Lead Developer at CoDHR and NVS back-end developer), Will McLean (front-end developer and interaction designer), and Texas A&amp;M graduate student researchers Kayley Hart and Lindsey Jones. In close collaboration with General Editors Paul Werstine and Eric Rasmussen, and under the guidance of the NVS Board chaired by Lena Cowen Orlin, the team brought this innovative edition online. Since its debut at the WSC in 2019, the NVS project transitioned to Texas A&amp;M’s Department of English. There, the current NVS team—comprising Robert Stagg (Principal Investigator and NVS Director), Katayoun Torabi (Project Manager and Digital Editor), Kris May (Associate Digital Editor), and Dorothy Todd (Associate Digital Editor)—have worked diligently to revise and finalize the edition for full release.</p>
+
+<p>Special thanks are extended to the many faculty, staff, student researchers, and interns who contributed to this volume, in addition to those mentioned above. We gratefully acknowledge the efforts of Inhoo Kim (Graduate Research Assistant); Jade Gooden, Grace Hoelescher, Shyam Prasad Nagulavancha, Mounika Balivada, Andrew Hoyt, Fernando Gonzalez Torres, and Alexandra Blue (Research Assistants); Kaitlin Carman and Brandon Delgado (Research Interns from Framingham State University); and Scott Kleinman (Associate Technical Editor from CSU, Northridge). For more information about those who made the digital edition possible, please visit our Contributors page: <ref targType="url" target="https://newvariorumshakespeare.org/contributors/">https://newvariorumshakespeare.org/contributors/</ref>.</p>
+  
+</div>
 
 <div type="potw" xml:id="div_potw">
 

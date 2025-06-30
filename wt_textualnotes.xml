@@ -959,7 +959,7 @@
 <app><lem>those</lem>] <appPart><rdg type="replace">these</rdg> <wit><siglum rend="smcaps">pope2</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_267-01" target="#tln_710"><label>710</label>
-<app><lem>a</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
+<app><lem>is a</lem>] <appPart><rdg type="replace">is</rdg> <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum>v1773</siglum> (&minus;<siglum rend="smcaps">cap</siglum>)</wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_267-02" target="#tln_710"><label display="all(invisible)">710</label>
 <app><lem>off</lem>] <appPart><rdg type="replace">of</rdg> <wit><siglum rend="smcaps">theo</siglum></wit></appPart></app></note>
@@ -2591,7 +2591,7 @@
 <app><lem>homely</lem>] <appPart><rdg type="replace">humble</rdg> <wit><siglum>v1803</siglum>, <siglum>v1813</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_717-01" target="#tln_2160"><label>2160</label>
-<app><lem>a</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
+<app><lem>foote and a halfe</lem>] <appPart><rdg type="replace">foote and halfe</rdg> <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum rend="smcaps">han</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_717-02" target="#tln_2160"><label display="all(invisible)">2160</label>
 <app><lem>squire</lem>] <appPart><rdg type="replace">square</rdg> <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">k&amp;r</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">bev4</siglum></wit></appPart>; <appPart><rdg type="replace">squire</rdg> <wit><siglum rend="smcaps">capn</siglum></wit></appPart></app></note>
@@ -3506,7 +3506,7 @@
 <app><lem>Gentlemen</lem>] <appPart><rdg type="replace">gentleman</rdg> <wit><siglum rend="smcaps">blair</siglum>, <siglum rend="smcaps">sing</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">ard2</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_983" target="#tln_3142"><label>3142</label>
-<app><lem>a</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">sig</siglum></wit></appPart></app></note>
+<app><lem>now a Gentleman</lem>] <appPart><rdg type="replace">now Gentleman</rdg> <wit><siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">sig</siglum></wit></appPart></app></note>
 
 <note type="textual" xml:id="tn_984" target="#tln_3164"><label>3164</label>
 <app><lem>thy</lem>] <appPart><rdg type="replace">your</rdg> <wit><siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note>
