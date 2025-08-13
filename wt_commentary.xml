@@ -1550,7 +1550,7 @@
                 <ref targType="bibl" target="#pw_org1996"><name type="app">Orgel</name></ref> (ed.
                 1996): <quote>This [Theobald’s comma] gives an undeniably easier sense, but
                     Archidamus’ next speech, emphasizing the absolute insufficiency of Bohemian
-                    entertainment, suggests that <siglum>F</siglum>’s syntax is correct.</quote>
+                    entertainment, suggests that F’s syntax is correct.</quote>
                 <ref targType="bibl" target="#s_ard2"><name type="app">Pafford</name></ref> (ed.
                 1963): <quote>This courtly language is similar to that of [5.2].</quote>
                 <ref targType="bibl" target="#b_cut68"><name type="app">Cutts</name></ref> (1968, p.
@@ -3707,7 +3707,7 @@
         <note type="commentary" xml:id="cn_125" target="#tln_94"><label>94</label>
             <lem>thwack&hellip;Distaffes</lem>] <p>Imitated in <title level="m">Tom a
                     Lincoln</title> (c. 1611; MSR, ed. Richard Proudfoot, 341–2). See n. <ref
-                    targType="note_cn" target="#cn_1578">1578</ref> for another such imitation.</p>
+                        targType="note_cn" target="#cn_1518-01">1578</ref> for another such imitation.</p>
         </note>
 
 
@@ -5741,7 +5741,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_182" target="#tln_177"><label>177</label>
+        <note type="commentary" xml:id="cn_215" target="#tln_177"><label>177</label>
             <lem>’Tis Grace indeed</lem>] <p><ref targType="bibl" target="#s_rann"><name type="app"
                         >Rann</name></ref> (ed. 1787), wrongly: I.e., <quote>this indulgence of her
                     wish for the stay of <name rend="italic">Polixenes</name>.</quote>
@@ -5761,7 +5761,7 @@
                 <ref targType="bibl" target="#b_you92"><name type="app">Young</name></ref> (1992, p.
                 183): <quote>Graciousness and generosity, as well as virtue.</quote> For other
                 meanings of <hi rend="italic">grace</hi>, see n. <ref targType="note_cn"
-                    target="#cn_129-01">146</ref>. <ref targType="bibl" target="#pw_wri1966"><name
+                    target="#cn_182">146</ref>. <ref targType="bibl" target="#pw_wri1966"><name
                         type="app">Wright</name> &amp; <name type="app">LaMar</name></ref> (ed.
                 1966), questionably: <quote>Referring to the proverbial saying that <quote>Marriages
                         are made in Heaven.</quote></quote></p>
@@ -10234,7 +10234,7 @@
                 (1900, p. 50) and <ref targType="bibl" target="#b_cer81"><name type="app"
                         >Cercignani</name></ref> (1981, p. 280), however, postulate the loss of the
                 unaccented vowel before the <hi rend="italic">n</hi>. For other syncopations of <hi
-                    rend="italic">i</hi>, see nn. <ref targType="note_cn" target="#cn_131"
+                    rend="italic">i</hi>, see nn. <ref targType="note_cn" target="#cn_200"
                 >162</ref>, <ref targType="note_cn" target="#cn_952-02">942</ref>, and <ref
                     targType="note_cn" target="#cn_3076-02">3369</ref>.</p>
         </note>
@@ -10940,7 +10940,7 @@
             <lem>Grace</lem>] <p><ref targType="bibl" target="#b_schm1874"><name type="app"
                         >Schmidt</name></ref> (1874): <quote>Used as an appelation of&hellip;kings
                     and queens.</quote> The other meanings of <hi rend="italic">grace</hi>, for
-                which see n. <ref targType="note_cn" target="#cn_129-01">146</ref>, make it ironic
+                which see n. <ref targType="note_cn" target="#cn_182">146</ref>, make it ironic
                 here.</p>
         </note>
 
@@ -13815,7 +13815,7 @@
                     <siglum>F1</siglum>
                 <rs type="sh" key="MM"><title level="m">MM</title> 4.4.6 (2278)</rs>, and Q1 <rs
                     type="sh" key="Oth."><title level="m">Oth.</title> 3.3.148 (1757)</rs>. For
-                another, see n. <ref targType="note_cn" target="#cn_532">1904</ref>.</p>
+                another, see n. <ref targType="note_cn" target="#cn_1816">1904</ref>.</p>
         </note>
 
 
@@ -13899,7 +13899,7 @@
                 considers this word the ethical dative—he was <quote>possibly misled by
                     Boswell,</quote> says <ref targType="bibl" target="#s_v1898"><name type="app"
                         >Furness</name></ref> (ed. 1898). For the ethical dative, see n. <ref
-                    targType="note_cn" target="#cn_1598">1598</ref>. <ref targType="bibl"
+                            targType="note_cn" target="#cn_1551-01">1598</ref>. <ref targType="bibl"
                     target="#pw_rol1879"><name type="app">Rolfe</name></ref> (ed. 1879), who agrees
                 with Abbott: <quote>The king has not been mentioned in the conversation thus far,
                     but Camillo is thinking of him. Polixenes, who is <hi rend="italic">not</hi>
