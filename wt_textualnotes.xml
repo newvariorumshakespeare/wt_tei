@@ -9010,8 +9010,8 @@
 
         <note type="textual" xml:id="tn_738" target="#tln_2210">
             <label>2210</label>
-            <app><lem>better&caret;</lem>] <appPart><rdg type="replace">&swdash;,</rdg>
-                    <wit><siglum>F3</siglum>, <siglum>F4</siglum>; &swdash;. <siglum rend="smcaps"
+            <app><lem>better</lem>] <appPart><rdg type="replace">better,</rdg>
+                    <wit><siglum>F3</siglum>, <siglum>F4</siglum>; better. <siglum rend="smcaps"
                             >rowe1</siglum>&plus;</wit></appPart></app>
         </note>
 
