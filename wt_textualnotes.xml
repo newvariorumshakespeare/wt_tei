@@ -8668,8 +8668,8 @@
 
         <note type="textual" xml:id="tn_713-01" target="#tln_2144">
             <label>2144</label>
-            <app><lem><hi rend="italic">ware-a.</hi></lem>] <appPart><rdg type="replace">ware-a
-                            <hi rend="italic">?</hi></rdg>
+            <app><lem><hi rend="italic">ware-a.</hi></lem>] <appPart><rdg type="replace">ware-a <hi
+                            rend="italic">?</hi></rdg>
                     <wit><siglum rend="smcaps">hud2</siglum></wit></appPart></app>
         </note>
 
@@ -9010,9 +9010,12 @@
 
         <note type="textual" xml:id="tn_738" target="#tln_2210">
             <label>2210</label>
-            <app><lem>better</lem>] <appPart><rdg type="replace">better,</rdg>
-                    <wit><siglum>F3</siglum>, <siglum>F4</siglum>; better. <siglum rend="smcaps"
-                            >rowe1</siglum>&plus;</wit></appPart></app>
+            <app><lem>better&caret;</lem>] <appPart><rdg type="replace">&swdash;,</rdg>
+                    <wit><siglum>F3</siglum>, <siglum>F4</siglum>;</wit></appPart>; <appPart><rdg
+                        type="replace">&swdash;.</rdg>
+                    <wit>
+                        <siglum rend="smcaps">rowe1</siglum>&plus;</wit></appPart></app>
+
         </note>
 
         <note type="textual" xml:id="tn_739-01" target="#tln_2211">
