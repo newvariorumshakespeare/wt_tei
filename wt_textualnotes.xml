@@ -9033,11 +9033,10 @@
 
         <note type="textual" xml:id="tn_740" target="#tln_2224">
             <label>2224</label>
-            <app><lem>a-while, beseech you,</lem>] <appPart><rdg type="replace">&swdash;: &swdash;
-                        &swdash;,</rdg>
+            <app><lem>a-while, beseech you,</lem>] <appPart><rdg type="replace">a-while: beseech you,</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>,
                             <siglum>v1773</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >&swdash;, &swdash; &swdash;;</rdg>
+                                    >a-while, beseech you;</rdg>
                     <wit><siglum rend="smcaps">cap</siglum>, <siglum>v1778</siglum>&plus;
                             (&minus;<siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps"
                             >sig</siglum>)</wit></appPart></app>
@@ -9502,7 +9501,7 @@
 
         <note type="textual" xml:id="tn_781" target="#tln_2373">
             <label>2373</label>
-            <app>
+            <app> 
                 <appPart>
                     <rdg type="replace">
                         <hi rend="italic">going.</hi>
