@@ -10306,7 +10306,7 @@
 
         <note type="textual" xml:id="tn_841-02" target="#tln_2558">
             <label display="all(invisible)">2558</label>
-            <app><lem>here, with&hellip;exchange</lem>] <appPart><rdg type="replace">here, without&hellip;exchange</rdg>
+            <app><lem>here, with this exchange</lem>] <appPart><rdg type="replace">here, without this exchange</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
                     >gent</siglum></wit></appPart></app>
@@ -10889,7 +10889,7 @@
 
         <note type="textual" xml:id="tn_895" target="#tln_2795">
             <label>2795</label>
-            <app><lem>(Where&hellip;Soule-vext,</lem>] <appPart><rdg type="replace">(Where
+            <app><lem>(Where&hellip;appeare) Soule-vext,</lem>] <appPart><rdg type="replace">(Where
                         we offendors now appear) Soul-vext.</rdg>
                     <wit><siglum>F3</siglum></wit></appPart>; <appPart><rdg type="replace">(Where we
                         offend Her now) appear soul-vext,</rdg>
