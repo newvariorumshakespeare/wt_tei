@@ -10306,7 +10306,7 @@
 
         <note type="textual" xml:id="tn_841-02" target="#tln_2558">
             <label display="all(invisible)">2558</label>
-            <app><lem>with</lem>] <appPart><rdg type="replace">without</rdg>
+            <app><lem>with this exchange</lem>] <appPart><rdg type="replace">without this exchange</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps"
                     >gent</siglum></wit></appPart></app>
@@ -10445,17 +10445,17 @@
 
         <note type="textual" xml:id="tn_854-01" target="#tln_2617">
             <label>2617</label>
-            <app><lem>at</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>F1</siglum></wit></appPart>; <appPart><rdg type="replace">to</rdg>
+            <app><lem>insinuate, at</lem>] <appPart><rdg type="lem">&swdash;</rdg>
+                    <wit><siglum>F1</siglum></wit></appPart>; <appPart><rdg type="replace">insinuate, to</rdg>
                     <wit><siglum>m<hi rend="smcaps">grey</hi></siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">cap</siglum>, <siglum
                             rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pen2</siglum>,
                             <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
-                        >bev4</siglum></wit></appPart>; <appPart><rdg type="replace">and</rdg>
+                        >bev4</siglum></wit></appPart>; <appPart><rdg type="replace">insinuate, and</rdg>
                     <wit><siglum rend="smcaps">mal</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">that</rdg>
+                        type="replace">insinuate, that</rdg>
                     <wit><siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps"
-                        >evns</siglum></wit></appPart>; <appPart><rdg type="replace">or</rdg>
+                        >evns</siglum></wit></appPart>; <appPart><rdg type="replace">insinuate, or</rdg>
                     <wit><siglum>F2</siglum>
                         <hi rend="italic">etc.</hi></wit></appPart></app>
         </note>
@@ -10889,7 +10889,7 @@
 
         <note type="textual" xml:id="tn_895" target="#tln_2795">
             <label>2795</label>
-            <app><lem>(Where&hellip;appeare) Soule-vext,</lem>] <appPart><rdg type="replace">(Where
+            <app><lem>(Where we Offendors now appeare) Soule-vext,</lem>] <appPart><rdg type="replace">(Where
                         we offendors now appear) Soul-vext.</rdg>
                     <wit><siglum>F3</siglum></wit></appPart>; <appPart><rdg type="replace">(Where we
                         offend Her now) appear soul-vext,</rdg>
@@ -11209,13 +11209,13 @@
         <note type="textual" xml:id="tn_919-02" target="#tln_2868">
             <label display="all(invisible)">2868</label>
             <app><lem><hi rend="italic">Exit.</hi></lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>Ff</siglum></wit></appPart>; <appPart><rdg type="insert"><stage
+                    <wit><siglum>Ff</siglum></wit></appPart>; <appPart><rdg type="replace"><stage
                             type="exit"><hi rend="italic">Exit</hi> Cleo.</stage></rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >john2</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
                             >rann</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
                             rend="smcaps">oxf2</siglum> (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart>; <appPart><rdg type="insert"><stage type="exit"
+                    >subst.</hi>)</wit></appPart>; <appPart><rdg type="replace"><stage type="exit"
                                 ><hi rend="italic">Exeunt</hi>
                             <hi rend="lscaps">Cleomenes</hi>, <hi rend="italic">Lords, and
                                 Gentleman.</hi></stage></rdg>
@@ -11224,7 +11224,7 @@
                             rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
                             >knt3</siglum>&sigrange;<siglum rend="smcaps">col4</siglum>, <siglum
                             rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">cln2</siglum> (<hi
-                            rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdg type="insert"
+                            rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdg type="replace"
                             ><stage type="exit"><hi rend="italic">Exeunt Cleomenes and
                             others.</hi></stage></rdg>
                     <wit><siglum rend="smcaps">cam1</siglum>
@@ -11355,12 +11355,12 @@
 
         <note type="textual" xml:id="tn_928" target="#tln_2896">
             <label>2896</label>
-            <app><lem>at</lem>] <appPart><rdg type="replace">as</rdg>
+            <app><lem>at friend</lem>] <appPart><rdg type="replace">as friend</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum
                             rend="smcaps">han</siglum>, <siglum rend="smcaps">john2</siglum>,
                             <siglum rend="smcaps">mal</siglum>, <siglum rend="smcaps">col</siglum>,
                             <siglum rend="smcaps">hud1</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">and</rdg>
+                        type="replace">and friend</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>
                         <hi rend="italic">conj.</hi>, <siglum rend="smcaps">gent</siglum>, <siglum
                             rend="smcaps">harn</siglum></wit></appPart></app>
@@ -11699,7 +11699,7 @@
 
         <note type="textual" xml:id="tn_961" target="#tln_3072">
             <label>3072</label>
-            <app><lem>to</lem>] <appPart><rdg type="replace">in</rdg>
+            <app><lem>torne to</lem>] <appPart><rdg type="replace">torne in</rdg>
                     <wit><siglum rend="smcaps">han3</siglum></wit></appPart></app>
         </note>
 
@@ -11940,7 +11940,7 @@
         <note type="textual" xml:id="tn_990-01" target="#tln_3183">
             <label>3183</label>
             <app><lem><hi rend="italic">Scæna Tertia</hi></lem>] <appPart><rdg type="replace">SCENE
-                        VII.</rdg>
+                        VII</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum></wit></appPart></app>
