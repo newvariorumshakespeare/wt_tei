@@ -12,9 +12,7 @@
 ]>
 
 <container xmlns="http://www.mla.org/NVSns">
-
-
-
+    
     <div type="textualnotes" xml:id="div_textualnotes">
 
         <head>Textual Notes</head>
