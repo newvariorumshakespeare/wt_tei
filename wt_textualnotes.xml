@@ -272,14 +272,15 @@
         <note type="textual" xml:id="tn_21-01" target="#tln_51">
             <label>51</label>
             <app><lem>&caret;The Shepheards Note,&caret;</lem>] <appPart><rdg type="replace"
-                        >(&swdash; &swdash; &swdash;,)</rdg>
+                        >(The Shepherd's Note,)</rdg>
                     <wit><siglum rend="smcaps">warb</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_21-02" target="#tln_51">
             <label display="all(invisible)">51</label>
             <app><lem>Shepheards</lem>] <appPart><rdg type="replace">Shepherd’s</rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus;</wit></appPart></app>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum
+                            rend="smcaps">warb</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_22" target="#tln_62">
