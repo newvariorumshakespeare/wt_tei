@@ -446,9 +446,9 @@
                             <siglum rend="smcaps">sis</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_35-01" target="#tln_98">
+        <note type="textual" xml:id="tn_35-01" target="#tln_98"> 
             <label>98</label>
-            <app><lem>let</lem>] <appPart><rdg type="replace">set</rdg>
+            <app><lem>let&hellip;Gest</lem>] <appPart><rdg type="replace">set&hellip;gest-day</rdg>
                     <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app>
         </note>
 
@@ -462,14 +462,12 @@
                     <wit><siglum>m<hi rend="smcaps">han</hi></siglum>
                         <hi rend="italic">conj.</hi> (12 July 1736 <hi rend="italic">and
                             withdrawn</hi>), <siglum rend="smcaps">cap</siglum> (<hi rend="italic"
-                            >errata</hi>)</wit></appPart>; <appPart><rdg type="replace">list</rdg>
+                            >errata</hi>)</wit></appPart>;<appPart><rdg type="replace">list</rdg>
                     <wit><siglum>m<hi rend="smcaps">tby</hi>3</siglum>
                         <hi rend="italic">and</hi>
                         <ref targType="bibl" target="#b_heab1765"><name type="app"
                             >heath</name></ref> (1765, pp. 202–3) <hi rend="italic">conj.</hi>,
-                            <siglum rend="smcaps">rann</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">gest-day</rdg>
-                    <wit><siglum rend="smcaps">ktly</siglum></wit></appPart></app>
+                        <siglum rend="smcaps">rann</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_36" target="#tln_99">
@@ -568,7 +566,7 @@
 
         <note type="textual" xml:id="tn_44-01" target="#tln_123">
             <label>123</label>
-            <app><lem>Lordings</lem>] <appPart><rdg type="replace">lordlings</rdg>
+            <app><lem>Lordings&hellip;then?</lem>] <appPart><rdg type="replace">lordlings&hellip;then.</rdg>
                     <wit><siglum rend="smcaps">harn</siglum>, <siglum rend="smcaps"
                         >col2</siglum></wit></appPart></app>
         </note>
@@ -580,7 +578,8 @@
                             rend="smcaps">del2</siglum> (&minus;<siglum rend="smcaps"
                         >dyce1</siglum>, <siglum rend="smcaps">stau</siglum>), <siglum rend="smcaps"
                             >ktly</siglum>, <siglum rend="smcaps">knt3</siglum>&sigrange;<siglum
-                            rend="smcaps">col4</siglum>, <siglum rend="smcaps">oxf1</siglum>,
+                                rend="smcaps">col4</siglum>(&minus;<siglum rend="smcaps"
+                                    >col2</siglum>), <siglum rend="smcaps">oxf1</siglum>,
                             <siglum rend="smcaps">alex</siglum></wit></appPart></app>
         </note>
 
@@ -721,7 +720,7 @@
 
         <note type="textual" xml:id="tn_57-01" target="#tln_166">
             <label>166</label>
-            <app><lem>heat</lem>] <appPart><rdg type="replace">clear</rdg>
+            <app><lem>heat&hellip;th'Goale.</lem>] <appPart><rdg type="replace">clear&hellip;th'good:</rdg>
                     <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>,
                             <siglum rend="smcaps">col4</siglum></wit></appPart>; <appPart><rdg
                         type="replace">heat us</rdg>
@@ -735,13 +734,8 @@
                             <siglum>v1773</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_57-03" target="#tln_166">
-            <label display="all(invisible)">166</label>
-            <app><lem>Goale</lem>] <appPart><rdg type="replace">good</rdg>
-                    <wit><siglum rend="smcaps">col2</siglum>, <siglum rend="smcaps">col3</siglum>,
-                            <siglum rend="smcaps">col4</siglum></wit></appPart></app>
-        </note>
-
+            
+      
         <note type="textual" xml:id="tn_58" target="#tln_167">
             <label>167</label>
             <app><lem>deed</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
