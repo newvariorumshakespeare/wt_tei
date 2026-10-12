@@ -1007,11 +1007,12 @@
 
         <note type="textual" xml:id="tn_81-02" target="#tln_212">
             <label display="all(invisible)">212</label>
-            <app><lem>eye: sweet Villaine,</lem>]<appPart><rdg
-                            
-                        type="replace">&swdash;, &swdash; &swdash;,</rdg>
+            <app><lem>eye: sweet Villaine,</lem>]<appPart><rdg       
+                        type="replace">eye: sweet Villaine,</rdg>
                     <wit><siglum rend="smcaps">blair</siglum></wit></appPart>; <appPart><rdg
-                        type="replace">&swdash;: &swdash; &swdash;.</rdg>
+                            
+                            
+                        type="replace">eye: sweet Villaine.</rdg>
                         <wit><siglum>F2</siglum>&plus;(&minus;<siglum rend="smcaps"
                                 >rowe2</siglum>&sigrange;<siglum rend="smcaps"
                                     >pope2</siglum>, <siglum rend="smcaps"
