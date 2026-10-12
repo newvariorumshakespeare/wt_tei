@@ -757,7 +757,8 @@
             <app><lem>A</lem>] <appPart><rdg type="replace">And</rdg>
                     <wit><siglum>F2</siglum>&plus;
                         (&minus;<siglum rend="smcaps">rowe3</siglum>&sigrange;<siglum>v1773
-                    </siglum></wit></appPart></app>
+                    </siglum>)
+                    </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_60-02" target="#tln_175">
@@ -1008,17 +1009,19 @@
             <label display="all(invisible)">212</label>
             <app><lem>eye: sweet Villaine,</lem>] <appPart><rdg type="lem">&swdash;</rdg>
                     <wit><siglum rend="smcaps">rowe2</siglum>&sigrange;<siglum rend="smcaps"
-                            >pope2</siglum>, <siglum rend="smcaps">han<siglum/>,
-                                <siglum rend="smcaps">blair<siglum/>
-                            </siglum>rend="smcaps">wh1</siglum>, <siglum
-                            rend="smcaps">sis</siglum>, <siglum rend="smcaps">sig</siglum>, <siglum
-                            rend="smcaps">oxf2</siglum>
+                            >pope2</siglum>, <siglum rend="smcaps">han</siglum>,
+                                <siglum rend="smcaps">blair</siglum>,
+                                <siglum>rend="smcaps">wh1</siglum>, <siglum
+                                    rend="smcaps">sis</siglum>, <siglum rend="smcaps">sig</siglum>, <siglum
+                                        rend="smcaps">oxf2</siglum>
                     </wit></appPart>; <appPart><rdg
+                            
                         type="replace">&swdash;, &swdash; &swdash;,</rdg>
                     <wit><siglum rend="smcaps">blair</siglum></wit></appPart>; <appPart><rdg
                         type="replace">&swdash;: &swdash; &swdash;.</rdg>
                     <wit><siglum>F2</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        <hi rend="italic">etc.</hi></wit></appPart></app> 
+                        
         </note>
 
         <note type="textual" xml:id="tn_82" target="#tln_213">
