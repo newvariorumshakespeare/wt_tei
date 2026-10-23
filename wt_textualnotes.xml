@@ -1011,7 +1011,6 @@
                         type="replace">eye: sweet Villaine,</rdg>
                     <wit><siglum rend="smcaps">blair</siglum></wit></appPart>; <appPart><rdg
                             
-                            
                         type="replace">eye: sweet Villaine.</rdg>
                         <wit><siglum>F2</siglum>&plus;(&minus;<siglum rend="smcaps"
                                 >rowe2</siglum>&sigrange;<siglum rend="smcaps"
@@ -3261,7 +3260,9 @@
         <note type="textual" xml:id="tn_274-01" target="#tln_746">
             <label>746</label>
             <app><lem>Then</lem>] <appPart><rdg type="lem">&swdash;</rdg>
-                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">pope1</siglum>, <siglum
+                    <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">pope1</siglum>, 
+                        <siglum rend="smcaps">theo2</siglum>, 
+                        <siglum>warb</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>, <siglum
                             rend="smcaps">mal</siglum>, <siglum>v1821</siglum>, <siglum
                             rend="smcaps">sing1</siglum>, <siglum rend="smcaps"
                     >oxf1</siglum></wit></appPart>; <appPart><rdg type="replace">Than</rdg>
@@ -3271,7 +3272,7 @@
 
         <note type="textual" xml:id="tn_274-02" target="#tln_746">
             <label display="all(invisible)">746</label>
-            <app><lem>see her,</lem>] <appPart><rdg type="replace">see,</rdg>
+            <app><lem>Then&hellip;see her,</lem>] <appPart><rdg type="replace">Than&hellip;see,</rdg>
                     <wit><siglum rend="smcaps">theo2</siglum>, <siglum rend="smcaps"
                             >warb</siglum>&sigrange;<siglum rend="smcaps"
                     >john2</siglum></wit></appPart></app>
@@ -3396,7 +3397,7 @@
 
         <note type="textual" xml:id="tn_282-01" target="#tln_775">
             <label>775</label>
-            <app><lem>her</lem>] <appPart><rdg type="replace">your</rdg>
+            <app><lem>her&hellip;suspition</lem>] <appPart><rdg type="replace">your&hellip;suspition;</rdg>
                     <wit><siglum rend="smcaps">rowe2</siglum>&sigrange;<siglum rend="smcaps"
                             >pope2</siglum>, <siglum rend="smcaps"
                 >han</siglum></wit></appPart></app>
@@ -3412,8 +3413,19 @@
                             rend="smcaps">sing2</siglum>, <siglum rend="smcaps">wh1</siglum>,
                             <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">del2</siglum>,
                             <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
-                        >knt3</siglum>; &swdash;, <siglum rend="smcaps">col1</siglum>
-                        <hi rend="italic">etc.</hi></wit></appPart></app>
+                        >knt3</siglum></wit></appPart>; 
+                        <appPart><rdg type="replace">suspition,</rdg> 
+                            <wit><siglum rend="smcaps">col1</siglum>&plus;
+                                (&minus;<siglum rend="smcaps">hud1</siglum>,
+                                    <siglum rend="smcaps">sing2</siglum>,
+                               <siglum rend="smcaps">wh1</siglum>,
+                                   <siglum rend="smcaps">hal</siglum>,
+                                       <siglum rend="smcaps">del2</siglum>,
+                                           <siglum rend="smcaps">ktly</siglum>,
+                                               <siglum rend="smcaps">knt3</siglum>)
+                                        
+</wit>
+                        </appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_283" target="#tln_778">
@@ -3622,7 +3634,7 @@
 
         <note type="textual" xml:id="tn_298-01" target="#tln_822">
             <label>822</label>
-            <app><lem>knowledge</lem>] <appPart><rdg type="replace">the Knowledge</rdg>
+            <app><lem>knowledge&hellip;who</lem>] <appPart><rdg type="replace">the Knowledge&hellip;whom</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum></wit></appPart></app>
         </note>
 
@@ -3630,7 +3642,7 @@
             <label display="all(invisible)">822</label>
             <app><lem>who</lem>] <appPart><rdg type="replace">whom</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps"
-                    >pope2</siglum></wit></appPart></app>
+                            >pope2</siglum> (&minus;<siglum rend="smcaps">rowe</siglum>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_299" target="#tln_825">
@@ -3856,17 +3868,20 @@
                 >han</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_313" target="#tln_858" targetEnd="#tln_859">
-            <label>858–9</label>
-            <app><lem>me,&hellip;blister.</lem>] <appPart><rdg type="replace"
-                        >&swdash;.&hellip;&swdash;;</rdg>
+        <note type="textual" xml:id="tn_313" target="#tln_858">
+            <label>858</label>
+            <app><lem>me,</lem>] <appPart><rdg type="replace"
+                        >me.</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&plus;</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_314" target="#tln_859">
             <label>859</label>
-            <app><lem>mouth’d</lem>] <appPart><rdg type="replace">mouth</rdg>
-                    <wit><siglum rend="smcaps">warb</siglum></wit></appPart></app>
+            <app><lem>mouth’d, let my tongue blister.</lem>] <appPart><rdg type="replace">mouth, let my tongue blister;</rdg>
+                    <wit><siglum rend="smcaps">warb</siglum></wit></appPart>;
+                <appPart><rdg type="replace">mouth'd, let my tongue blister,</rdg>
+                    <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps">warb</siglum>)</wit></appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_315" target="#tln_864">
