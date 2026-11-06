@@ -11560,28 +11560,36 @@
 
         <note type="textual" xml:id="tn_946-01" target="#tln_3009">
             <label>3009</label>
-            <app><lem>Scœna Secunda.</lem>
+            <app><lem>Scœna Secunda.</lem>]
                 <appPart>
                         <rdg type="replace">SCENE V.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han</siglum>,
-                            <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
-                        >john</siglum></wit>
+                            <siglum rend="smcaps">warb</siglum></wit>
                 </appPart>
             </app>
         </note>
-
+       
+       
+        
         <note type="textual" xml:id="tn_946-02" target="#tln_3009">
             <label display="all(invisible)">3009</label>
-            <app><lem>Scœna Secunda.</lem>
+            <app><lem>Scœna Secunda.</lem>]
                 <appPart>
                     <rdg type="replace">SCENE, near the Court in Sicily.</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >han</siglum>, <siglum rend="smcaps">pel1</siglum>, <siglum
+                            >han</siglum>, <siglum rend="smcaps">john</siglum>, <siglum rend="smcaps">warb</siglum> <siglum rend="smcaps">pel1</siglum>, <siglum
                             rend="smcaps">cln2</siglum>, <siglum rend="smcaps">pen2</siglum>,
                             <siglum rend="smcaps">oxf2</siglum>) (<hi rend="italic"
                         >subst.</hi>)</wit>
                 </appPart>
             </app>
+        </note>
+
+        <note type="textual" xml:id="tn_946-03" target="#tln_3009">
+            <label display="all(invisible)">3009</label>
+            <app><lem>Scœna Secunda.</lem>]
+                <appPart> <rdg type="replace">SCENE V, near the Court in Sicily.</rdg>
+                    <wit><siglum rend="smcaps">john</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_947" target="#tln_3016">
