@@ -11589,7 +11589,8 @@
             <label display="all(invisible)">3009</label>
             <app><lem>Scœna Secunda.</lem>]
                 <appPart> <rdg type="replace">SCENE V, near the Court in Sicily.</rdg>
-                    <wit><siglum rend="smcaps">john</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">john</siglum> (<hi rend="italic"
+                            >subst.</hi>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_947" target="#tln_3016">
