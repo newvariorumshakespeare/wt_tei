@@ -11562,9 +11562,8 @@
             <label>3009</label>
             <app>
                 <appPart>
-                    <rdg type="insert">
+                        <rdg type="replace">SCENE V.</rdg>
                         <head>SCENE V.</head>
-                    </rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum></wit>
@@ -11959,10 +11958,11 @@
         <note type="textual" xml:id="tn_990-01" target="#tln_3183">
             <label>3183</label>
             <app><lem><hi rend="italic">Scæna Tertia</hi></lem>] <appPart><rdg type="replace">SCENE
-                        VII</rdg>
+                        VII. Paulina’s House.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
-                        >john</siglum></wit></appPart></app>
+                                >john</siglum> 
+                        (<hi rend="italic">subst.</hi>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_990-02" target="#tln_3183">
@@ -11972,7 +11972,8 @@
                     <rdg type="insert">
                         <stage type="location">Paulina’s <hi rend="italic">House.</hi></stage>
                     </rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&plus; (&minus;<siglum rend="smcaps"
+                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">cap</siglum>&plus; 
+                        (&minus;<siglum rend="smcaps"
                             >pel1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum
                             rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) (<hi
                             rend="italic">subst.</hi>)</wit>
