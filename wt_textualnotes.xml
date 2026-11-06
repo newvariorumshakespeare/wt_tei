@@ -11560,10 +11560,9 @@
 
         <note type="textual" xml:id="tn_946-01" target="#tln_3009">
             <label>3009</label>
-            <app>
+            <app><lem>Scœna Secunda.</lem>
                 <appPart>
                         <rdg type="replace">SCENE V.</rdg>
-                        <head>SCENE V.</head>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum></wit>
@@ -11573,12 +11572,9 @@
 
         <note type="textual" xml:id="tn_946-02" target="#tln_3009">
             <label display="all(invisible)">3009</label>
-            <app>
+            <app><lem>Scœna Secunda.</lem>
                 <appPart>
-                    <rdg type="insert">
-                        <stage type="location">SCENE, <hi rend="italic">near the Court in</hi>
-                            Sicily.</stage>
-                    </rdg>
+                    <rdg type="replace">SCENE, near the Court in Sicily.</rdg>
                     <wit><siglum rend="smcaps">theo1</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >han</siglum>, <siglum rend="smcaps">pel1</siglum>, <siglum
                             rend="smcaps">cln2</siglum>, <siglum rend="smcaps">pen2</siglum>,
