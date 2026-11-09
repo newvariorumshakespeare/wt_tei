@@ -2568,11 +2568,9 @@
         <note type="textual" xml:id="tn_214" target="#tln_584">
             <label>584</label>
             <app>
-                <appPart><lem>Enter Hermione, Mamillius, Ladies: Leontes,</lem>]
-                    <rdg type="replace">
-                        <hi rend="italic">The</hi> SCENE [i.e., Sicilia; the palace] 
-                        <hi rend="italic">Continues.</hi>
-                    </rdg>
+                <appPart><lem>Enter Hermione, Mamillius, Ladies:</lem>]
+                    <rdg type="replace">The SCENE [i.e., Sicilia; the palace] 
+                        Continues.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&plus; (&minus;<siglum rend="smcaps"
                             >pel1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum
                             rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) (<hi
@@ -2581,7 +2579,7 @@
             </app>
         </note>
  
-        <note type="textual" xml:id="tn_215" targetEnd="#tln_585">
+        <note type="textual" xml:id="tn_215" target="#tln_584" targetEnd="#tln_585">
             <label>584-5</label>
             <app><lem><hi rend="italic">Leontes</hi>, <hi rend="italic">Antigonus</hi>, <hi
                         rend="italic">Lords.</hi></lem>] <appPart><rdgDesc><hi rend="italic"
