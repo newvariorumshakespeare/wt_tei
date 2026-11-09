@@ -2569,7 +2569,8 @@
             <label>584</label>
             <app>
                 <lem><hi rend="italic">Enter Hermione, Mamillius, Ladies: Leontes,</hi></lem>]
-                    <appPart> <rdg type="replace">The SCENE [i.e., Sicilia; the palace] Continues.</rdg>
+                <appPart><rdg type="replace"><hi rend="italic">The</hi> SCENE [i.e., Sicilia; the palace] 
+                        <hi rend="italic">Continues.</hi></rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&plus; 
                         (&minus;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) 
                         (<hi rend="italic">subst.</hi>)</wit>
