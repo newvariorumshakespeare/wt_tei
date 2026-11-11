@@ -1751,12 +1751,17 @@
         <note type="textual" xml:id="tn_143-01" target="#tln_345">
             <label>345</label>
             <app><lem>Sometime</lem>] <appPart><rdg type="replace">Sometimes</rdg>
-                    <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">rowe2</siglum>, <siglum
-                            rend="smcaps">knt</siglum>, <siglum rend="smcaps"
-                    >stau</siglum></wit></appPart></app>
-        </note>
-
+                    <wit><siglum>F4</siglum>&sigrange;<siglum rend="smcaps">rowe2</siglum>
+                    </wit></appPart></app> </note>
+           
         <note type="textual" xml:id="tn_143-02" target="#tln_345">
+            <label>345</label>
+            <app><lem>Sometime puts forth in your affaires (my Lord.)</lem>] <appPart><rdg type="replace">Sometimes puts forth. in your affaires (my Lord,</rdg>
+                    <wit><siglum rend="smcaps">knt</siglum>, <siglum rend="smcaps">stau</siglum>
+                    </wit></appPart></app> </note>
+            
+
+        <note type="textual" xml:id="tn_143-03" target="#tln_345">
             <label display="all(invisible)">345</label>
             <app><lem>forth&caret;&hellip;Lord.)</lem>] <appPart><rdg type="replace"
                         >&swdash;.&hellip;&swdash;,&caret;</rdg>
@@ -1766,7 +1771,7 @@
                             >conj. in</hi>
                         <ref targType="bibl" target="#b_nich1817"><name type="app"
                             >nichols</name></ref> (1817, 2:359), <siglum rend="smcaps"
-                            >theo1</siglum>&plus;</wit></appPart></app>
+                                >theo1</siglum>&plus;(&minus;<siglum rend="smcaps">knt</siglum>,<siglum rend="smcaps">stau</siglum>) </wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_144" target="#tln_347">
