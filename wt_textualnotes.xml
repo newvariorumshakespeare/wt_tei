@@ -4582,12 +4582,11 @@
 
         <note type="textual" xml:id="tn_369-01" target="#tln_1055">
             <label>1055</label>
-            <app><lem>better guiding</lem>] <appPart><rdg type="replace">better-guiding</rdg>
+            <app><lem>better guiding spirit. What needs these hands?</lem>] <appPart><rdg type="replace">better-guiding spirit. What neede these hands?</rdg>
                     <wit><ref targType="bibl" target="#b_walw1860"><name type="app"
                             >walker</name></ref> (1860, 1:37) <hi rend="italic">conj.</hi>, <siglum
                             rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">knt3</siglum>,
-                            <siglum rend="smcaps">hud2</siglum>, <siglum rend="smcaps"
-                        >bul</siglum></wit></appPart></app>
+                            <siglum rend="smcaps">hud2</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_369-02" target="#tln_1055">
@@ -4595,10 +4594,19 @@
             <app><lem>needs</lem>] <appPart><rdg type="replace">neede</rdg>
                     <wit><siglum>F2</siglum>&sigrange;<siglum rend="smcaps">hal</siglum>
                             (&minus;<siglum rend="smcaps">dyce1</siglum>), <siglum rend="smcaps"
-                            >ktly</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>
-                            (&minus;<siglum rend="smcaps">del4</siglum>), <siglum rend="smcaps"
-                            >oxf1</siglum></wit></appPart></app>
+                            >ktly</siglum>, <siglum rend="smcaps">col4</siglum>,
+                            <siglum rend="smcaps">oxf1</siglum></wit></appPart></app>
         </note>
+        
+        
+        <note type="textual" xml:id="tn_369-03" target="#tln_1055">
+            <label display="all(invisible)">1055</label>
+            <app><lem>better guiding spirit. What needs these hands?</lem>] <appPart><rdg type="replace">better-guiding spirit. What needs these hands?</rdg>
+                    <wit><siglum rend="smcaps">bul</siglum></wit></appPart></app>
+        </note>
+        
+        
+        
 
         <note type="textual" xml:id="tn_370" target="#tln_1059">
             <label>1059</label>
