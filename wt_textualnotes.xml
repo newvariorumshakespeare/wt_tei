@@ -3408,7 +3408,10 @@
                             rend="smcaps">sing2</siglum>, <siglum rend="smcaps">wh1</siglum>,
                             <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">del2</siglum>,
                             <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
-                        >knt3</siglum></wit></appPart>; 
+                                >knt3</siglum>(&minus;<siglum rend="smcaps">rowe2</siglum>&sigrange;<siglum rend="smcaps"
+                                    >pope2</siglum>, <siglum rend="smcaps"
+                                        >han</siglum>)
+                    </wit></appPart>; 
                         <appPart><rdg type="replace">suspition,</rdg> 
                             <wit><siglum rend="smcaps">col1</siglum>&plus;
                                 (&minus;<siglum rend="smcaps">hud1</siglum>,
