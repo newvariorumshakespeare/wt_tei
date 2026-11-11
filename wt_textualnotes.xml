@@ -3404,13 +3404,13 @@
                     <wit><siglum>Ff</siglum></wit></appPart>; <appPart><rdg type="replace"
                         >&swdash;;</rdg>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >knt2</siglum>, <siglum rend="smcaps">hud1</siglum>, <siglum
+                            >knt2</siglum>(&minus;<siglum rend="smcaps">rowe2</siglum>&sigrange;<siglum rend="smcaps"
+                                >pope2</siglum>, <siglum rend="smcaps"
+                                    >han</siglum>), <siglum rend="smcaps">hud1</siglum>, <siglum
                             rend="smcaps">sing2</siglum>, <siglum rend="smcaps">wh1</siglum>,
                             <siglum rend="smcaps">hal</siglum>, <siglum rend="smcaps">del2</siglum>,
                             <siglum rend="smcaps">ktly</siglum>, <siglum rend="smcaps"
-                                >knt3</siglum> (&minus;<siglum rend="smcaps">rowe2</siglum>&sigrange;<siglum rend="smcaps"
-                                    >pope2</siglum>, <siglum rend="smcaps"
-                                        >han</siglum>)
+                                >knt3</siglum> 
                     </wit></appPart>; 
                         <appPart><rdg type="replace">suspition,</rdg> 
                             <wit><siglum rend="smcaps">col1</siglum>&plus;
@@ -3864,18 +3864,26 @@
 
         <note type="textual" xml:id="tn_312-01" target="#tln_857">
             <label>857</label>
-            <app><lem>on’t</lem>] <appPart><rdg type="replace">of it</rdg>
-                    <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps"
-                        >han</siglum></wit></appPart></app>
+            <app><lem>He must be told on’t, and he shall: the office</lem>] <appPart><rdg type="replace">He must be told on’t, and shall: the office</rdg>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
+                        >rowe3</siglum></wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_312-02" target="#tln_857">
             <label display="all(invisible)">857</label>
-            <app><lem>he</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >pope2</siglum>, <siglum rend="smcaps"
-                >han</siglum></wit></appPart></app>
+            <app><lem>He must be told on’t, and he shall: the office</lem>] <appPart><rdg type="replace">He must be told of it, and shall: the office</rdg>
+                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart></app>
         </note>
+        
+        
+        <note type="textual" xml:id="tn_312-03" target="#tln_857">
+            <label display="all(invisible)">857</label>
+            <app><lem>He must be told on’t, and he shall: the office</lem>] <appPart><rdg type="replace">He must be told of it, and he shall: the office</rdg>
+                    <wit><siglum rend="smcaps">han</siglum></wit></appPart></app>
+        </note>
+        
+        
+        
 
         <note type="textual" xml:id="tn_313" target="#tln_858">
             <label>858</label>
