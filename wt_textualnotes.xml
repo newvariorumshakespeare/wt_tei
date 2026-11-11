@@ -2573,25 +2573,24 @@
         <note type="textual" xml:id="tn_214" target="#tln_584">
             <label>584</label>
             <app>
-                <appPart>
-                    <rdg type="insert">
-                        <stage type="location"><hi rend="italic">The</hi> SCENE [i.e., Sicilia; the
-                            palace] <hi rend="italic">Continues.</hi></stage>
-                    </rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >pel1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum
-                            rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) (<hi
-                            rend="italic">subst.</hi>)</wit>
+                <lem>Enter Hermione, Mamillius, Ladies: Leontes,</lem>]
+                <appPart><rdg type="replace"><hi rend="italic">The</hi> SCENE [i.e., Sicilia; the palace] 
+                        <hi rend="italic">Continues.</hi></rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>&plus; 
+                        (&minus;<siglum rend="smcaps">pel1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) 
+                        (<hi rend="italic">subst.</hi>)</wit>
                 </appPart>
             </app>
         </note>
-
+ 
         <note type="textual" xml:id="tn_215" target="#tln_584" targetEnd="#tln_585">
-            <label>584–5</label>
+            <label>584-5</label>
             <app><lem><hi rend="italic">Leontes</hi>, <hi rend="italic">Antigonus</hi>, <hi
                         rend="italic">Lords.</hi></lem>] <appPart><rdgDesc><hi rend="italic"
-                            >Om.</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus;</wit></appPart></app>
+                                    >Om.</hi></rdgDesc>
+                            <wit><siglum rend="smcaps">rowe1</siglum>&plus;</wit>
+                        </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_216" target="#tln_585">
@@ -3566,50 +3565,61 @@
 
         <note type="textual" xml:id="tn_296-01" target="#tln_820">
             <label>820</label>
-            <app><appPart><rdg type="insert"><stage type="location"><hi rend="italic">A</hi>
-                            <hi rend="lscaps">Prison.</hi></stage></rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john2</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >rann</siglum>, <siglum rend="smcaps">cam1</siglum>, <siglum
-                            rend="smcaps">glo</siglum>, <siglum rend="smcaps">irv</siglum>, <siglum
-                            rend="smcaps">bul</siglum>, <siglum rend="smcaps">ard1</siglum>, <siglum
-                            rend="smcaps">kit1</siglum>&sigrange;<siglum rend="smcaps">sis</siglum>,
-                            <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">sig</siglum>,
-                            <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">bev</siglum>
-                            (<hi rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdg
-                        type="insert"><stage type="location"><hi rend="italic">Outer-Room of a
-                                Prison.</hi></stage></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
-                            >mal</siglum>&sigrange;<siglum rend="smcaps">del2</siglum>, <siglum
-                            rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">wh2</siglum>,
-                            <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps"
-                        >nlsn</siglum>, <siglum rend="smcaps">cam3</siglum> (<hi rend="italic"
-                            >subst.</hi>)</wit></appPart></app>
+            <app><lem>Enter Paulina, a Gentleman, Gaoler, Emilia.</lem>]
+                <appPart>
+                   <rdg type="replace"><stage type="location"><hi rend="italic">A</hi>
+                            <hi rend="lscaps">Prison.</hi></stage> Enter Paulina and a Gentleman.</rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">theo2</siglum>, 
+                        <siglum rend="smcaps">warb</siglum>&sigrange;<siglum rend="smcaps">john2</siglum>,
+                        <siglum>v1778</siglum>&sigrange;<siglum rend="smcaps">rann</siglum>, 
+                        <siglum rend="smcaps">bul</siglum>, <siglum rend="smcaps">ard1</siglum>, 
+                        <siglum rend="smcaps">sis</siglum>, <siglum rend="smcaps">ard2</siglum>, 
+                        <siglum rend="smcaps">sig</siglum> (<hi rend="italic">subst.</hi>)</wit>
+                </appPart>; 
+                <appPart>
+                    <rdg type="replace"><stage type="location"><hi rend="italic">Outer-Room of a
+                                Prison.</hi></stage> Enter Paulina, attended.</rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, 
+                        <siglum rend="smcaps">mal</siglum>&sigrange;<siglum rend="smcaps">del2</siglum>, 
+                        <siglum rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps">hud2</siglum>,
+                            <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps">nlsn</siglum>, 
+                        <siglum rend="smcaps">cam3</siglum> (<hi rend="italic">subst.</hi>)</wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_296-02" target="#tln_820">
             <label display="all(invisible)">820</label>
-            <app><lem><hi rend="italic">a&hellip;Emilia</hi></lem>] <appPart><rdg type="replace"><hi
+            <app><lem><hi rend="italic">, a Gentleman, Gaoler, Emilia</hi></lem>] <appPart><rdg type="replace"><hi
                             rend="italic">and a Gentleman</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john2</siglum>, <siglum>v1778</siglum> (<hi rend="italic"
-                        >subst.</hi>)</wit></appPart>; <appPart><rdg type="replace"><hi
-                            rend="italic">and a Gentleman, with other Attendants</hi></rdg>
+                    <wit><siglum rend="smcaps">rowe</siglum> (<hi rend="italic"
+                        >subst.</hi>)</wit>
+            </appPart>
+            </app>
+        </note>
+                
+        <note type="textual" xml:id="tn_296-03" target="#tln_820">
+            <label>820</label>
+            <app><lem>Enter Paulina, a Gentleman, Gaoler, Emilia.</lem>]
+                <appPart>
+                    <rdg type="replace"><stage type="location"><hi rend="italic">A</hi>
+                            <hi rend="lscaps">Prison.</hi></stage> Enter Paulina and a Gentleman, with other Attendants.</rdg>
                     <wit><siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">cam1</siglum>,
-                            <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">wh2</siglum>,
-                            <siglum rend="smcaps">irv</siglum>, <siglum rend="smcaps"
-                            >nlsn</siglum>&sigrange;<siglum rend="smcaps">alex</siglum>, <siglum
-                            rend="smcaps">pen2</siglum>&plus; (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart>; <appPart><rdg type="replace"><hi rend="italic"
-                            >attended</hi></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps"
-                            >mal</siglum>&sigrange;<siglum rend="smcaps">del2</siglum>, <siglum
-                            rend="smcaps">ktly</siglum>&sigrange;<siglum rend="smcaps"
-                        >hud2</siglum>, <siglum rend="smcaps">oxf1</siglum>, <siglum rend="smcaps"
-                            >bul</siglum>, <siglum rend="smcaps">sis</siglum> (<hi rend="italic"
-                            >subst.</hi>)</wit></appPart>; <appPart><rdg type="replace"><hi
-                            rend="italic">and Gentlemen</hi></rdg>
-                    <wit><siglum>v1773</siglum></wit></appPart></app>
+                            <siglum rend="smcaps">glo</siglum>, <siglum rend="smcaps">irv</siglum>, 
+                        <siglum rend="smcaps">ard1</siglum>, <siglum rend="smcaps">kit1</siglum>, 
+                        <siglum rend="smcaps">alex</siglum>, <siglum rend="smcaps">pen2</siglum>&plus; 
+                        (<hi rend="italic">subst.</hi>)</wit></appPart>; 
+                <appPart>
+                    <rdg type="replace"><stage type="location"><hi rend="italic">Outer-Room of a
+                                Prison.</hi></stage> Enter Paulina and a Gentleman, with other Attendants.</rdg>
+                    <wit><siglum rend="smcaps">wh2</siglum> (<hi rend="italic">subst.</hi>)</wit>
+                </appPart>; 
+                <appPart>
+                    <rdg type="replace"><stage type="location"><hi rend="italic">A</hi>
+                        <hi rend="lscaps">Prison.</hi></stage> Enter Paulina and Gentlemen.</rdg>
+                    <wit><siglum>v1773</siglum></wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_297" target="#tln_821">
