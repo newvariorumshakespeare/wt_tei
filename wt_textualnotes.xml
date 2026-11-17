@@ -4020,22 +4020,30 @@
 
         <note type="textual" xml:id="tn_325" target="#tln_898" targetEnd="#tln_899">
             <label>898–9</label>
-            <app><lem><hi rend="italic">Enter&hellip;Lords.</hi></lem>] <appPart><rdg type="replace"
-                            ><hi rend="italic">Enter</hi> Leontes, Antigonus, <hi rend="italic"
-                            >Lords, and other Attendants.</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >john2</siglum>, <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps"
-                            >hal</siglum>, <siglum rend="smcaps">del2</siglum>&sigrange;<siglum
-                            rend="smcaps">ard1</siglum>, <siglum rend="smcaps"
-                            >kit1</siglum>&sigrange;<siglum rend="smcaps">cln2</siglum>, <siglum
-                            rend="smcaps">sig</siglum> (<hi rend="italic"
-                    >subst.</hi>)</wit></appPart>; <appPart><rdg type="replace"><stage
-                            type="description enter"><hi rend="lscaps">Antigonus</hi>, <hi
-                                rend="italic">and Lords, waiting, and other Attendants. Enter</hi>
+            <app><lem><hi rend="italic">Enter&hellip;Lords.</hi></lem>]
+                <appPart><rdg type="replace"><stage type="location">
+                            <hi rend="italic">The</hi>
+                            <hi rend="lscaps">Palace.</hi></stage>
+                        <hi rend="italic">Enter</hi> Leontes, Antigonus, 
+                        <hi rend="italic">Lords, and other Attendants.</hi></rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>&plus; 
+                        (&minus;<siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">stau</siglum>, 
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pel1</siglum>, 
+                        <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">ard2</siglum>,
+                        <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">evns</siglum>,
+                        <siglum rend="smcaps">bev3</siglum>, <siglum rend="smcaps">bev4</siglum>,
+                        <siglum rend="smcaps">oxf2</siglum>) (<hi rend="italic">subst.</hi>)</wit>
+                </appPart>;
+                <appPart><rdg type="replace"><hi rend="italic">Enter</hi> Leontes, Antigonus, 
+                        <hi rend="italic">Lords, and other Attendants.</hi></rdg>
+                    <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">pel1</siglum>,
+                        <siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">sig</siglum> 
+                        (<hi rend="italic">subst.</hi>)</wit></appPart>; 
+                <appPart><rdg type="replace"><stage type="description enter">
+                            <hi rend="lscaps">Antigonus</hi>, 
+                            <hi rend="italic">and Lords, waiting, and other Attendants. Enter</hi>
                             <hi rend="lscaps">Leontes.</hi></stage></rdg>
-                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">stau</siglum>,
-                            <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">bev4</siglum>
-                            (<hi rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdg
+                    <wit><siglum rend="smcaps">oxf2</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdg
                         type="replace"><stage type="description"><hi rend="lscaps">Leontes</hi>
                             <hi rend="italic">alone, discovered.</hi></stage></rdg>
                     <wit><siglum rend="smcaps">kem1</siglum>, <siglum rend="smcaps">cam3</siglum>,
