@@ -4000,24 +4000,6 @@
             </app>
         </note>
 
-        <note type="textual" xml:id="tn_324" target="#tln_898">
-            <label>898</label>
-            <app>
-                <appPart>
-                    <rdg type="insert">
-                        <stage type="location">
-                            <hi rend="italic">The</hi>
-                            <hi rend="lscaps">Palace.</hi>
-                        </stage>
-                    </rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>&plus; (&minus;<siglum rend="smcaps"
-                            >pel1</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum
-                            rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) (<hi
-                            rend="italic">subst.</hi>)</wit>
-                </appPart>
-            </app>
-        </note>
-
         <note type="textual" xml:id="tn_325" target="#tln_898" targetEnd="#tln_899">
             <label>898–9</label>
             <app><lem><hi rend="italic">Enter&hellip;Lords.</hi></lem>]
@@ -4043,17 +4025,38 @@
                             <hi rend="lscaps">Antigonus</hi>, 
                             <hi rend="italic">and Lords, waiting, and other Attendants. Enter</hi>
                             <hi rend="lscaps">Leontes.</hi></stage></rdg>
-                    <wit><siglum rend="smcaps">oxf2</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdg
-                        type="replace"><stage type="description"><hi rend="lscaps">Leontes</hi>
+                    <wit><siglum rend="smcaps">oxf2</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>; 
+                <appPart><rdg type="replace"><stage type="location">
+                            <hi rend="italic">The</hi>
+                            <hi rend="lscaps">Palace.</hi></stage>   
+                        <stage type="description enter">
+                            <hi rend="lscaps">Antigonus</hi>, 
+                            <hi rend="italic">and Lords, waiting, and other Attendants. Enter</hi>
+                            <hi rend="lscaps">Leontes.</hi></stage></rdg>
+                    <wit><siglum rend="smcaps">cap</siglum>, <siglum rend="smcaps">stau</siglum>,
+                        <siglum rend="smcaps">bev4</siglum> (<hi rend="italic">subst.</hi>)</wit>
+                </appPart>;
+                <appPart><rdg type="replace"><stage type="description"><hi rend="lscaps">Leontes</hi>
                             <hi rend="italic">alone, discovered.</hi></stage></rdg>
-                    <wit><siglum rend="smcaps">kem1</siglum>, <siglum rend="smcaps">cam3</siglum>,
-                            <siglum rend="smcaps">ard2</siglum>, <siglum rend="smcaps">pen2</siglum>
-                            (<hi rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdg
-                        type="replace"><stage type="enter"><hi rend="italic">Enter</hi>
+                    <wit><siglum rend="smcaps">pen2</siglum> (<hi rend="italic">subst.</hi>)</wit></appPart>; 
+                <appPart><rdg type="replace"><stage type="location">
+                            <hi rend="italic">The</hi>
+                            <hi rend="lscaps">Palace.</hi></stage>
+                        <stage type="description"><hi rend="lscaps">Leontes</hi>
+                            <hi rend="italic">alone, discovered.</hi></stage></rdg>
+                    <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">ard2</siglum> (<hi rend="italic">subst.</hi>)
+                    </wit>
+                </appPart>;
+                <appPart><rdg type="replace">
+                        <stage type="location">
+                            <hi rend="italic">The</hi>
+                            <hi rend="lscaps">Palace.</hi></stage>            
+                        <stage type="enter"><hi rend="italic">Enter</hi>
                             <hi rend="lscaps">Leontes</hi>; <hi rend="lscaps">Servants</hi>
                             <hi rend="italic">keeping the door.</hi></stage></rdg>
-                    <wit><siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps"
-                        >bev3</siglum></wit></appPart></app>
+                    <wit><siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">bev3</siglum></wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_326" target="#tln_901">
