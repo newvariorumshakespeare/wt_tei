@@ -4222,33 +4222,43 @@
 
         <note type="textual" xml:id="tn_336-01" target="#tln_928">
             <label>928</label>
-            <app><appPart><rdg type="insert"><head>SCENE V.</head></rdg>
-                    <wit><siglum rend="smcaps">pope1</siglum>, <siglum rend="smcaps">han</siglum>,
-                            <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
-                        >john</siglum></wit></appPart>; <appPart><rdg type="insert"><head>SCENE
-                            VI.</head></rdg>
-                    <wit><siglum rend="smcaps">pope2</siglum></wit></appPart></app>
+            <app><lem>Enter Paulina.</lem>]
+                <appPart><rdg type="replace"><head>SCENE V.</head> <stage type="enter">Enter Paulina. with a Child.</stage></rdg>
+                    <wit><siglum rend="smcaps">pope1</siglum>, <siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">warb</siglum>, 
+                        <siglum rend="smcaps">john</siglum></wit>
+                </appPart>; 
+                <appPart><rdg type="replace"><head>SCENE
+                            VI.</head> <stage type="enter">Enter Paulina. with a Child.</stage></rdg>
+                    <wit><siglum rend="smcaps">pope2</siglum></wit>
+                </appPart>
+            </app>
         </note>
 
         <note type="textual" xml:id="tn_336-02" target="#tln_928">
             <label display="all(invisible)">928</label>
             <app><appPart><rdgDesc>Ad. <rdg type="insert"><hi rend="italic">with a
                         Child</hi></rdg></rdgDesc>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (<hi rend="italic"
-                        >subst.</hi>)</wit></appPart>; <appPart><rdgDesc>and ad. <rdg type="insert"
-                                ><hi rend="lscaps">Antigonus</hi>, <hi rend="italic">lords, and the
-                                servant</hi>&hellip;</rdg></rdgDesc>
+                    <wit><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps">pope</siglum>, 
+                        <siglum rend="smcaps">han</siglum>, <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps">john</siglum>,
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pen2</siglum>, <siglum rend="smcaps">bev4</siglum>) 
+                        (<hi rend="italic">subst.</hi>)</wit>
+            </appPart>; 
+                <appPart><rdgDesc>and ad. <rdg type="insert"><hi rend="lscaps">with a Child Antigonus</hi>, 
+                            <hi rend="italic">lords, and the servant.</hi></rdg></rdgDesc>
                     <wit><siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps">pen2</siglum>,
                             <siglum rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">bev4</siglum>
-                            (<hi rend="italic">subst.</hi>)</wit></appPart>; <appPart><rdgDesc>as
-                            <siglum rend="smcaps">cam3</siglum> except <hi rend="italic"
-                            >servants</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">ard2</siglum></wit></appPart>; <appPart><rdgDesc>as
-                            <siglum rend="smcaps">cam3</siglum> except om. <hi rend="italic">and the
-                            servant</hi></rdgDesc>
-                    <wit><siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps"
-                        >bev3</siglum></wit></appPart></app>
+                            (<hi rend="italic">subst.</hi>)</wit></appPart>; 
+                <appPart><rdgDesc>and ad. <rdg type="insert"><hi rend="lscaps">with a Child Antigonus</hi>, 
+                            <hi rend="italic">lords, and the servants.</hi></rdg></rdgDesc>
+                    <wit><siglum rend="smcaps">ard2</siglum></wit></appPart>; 
+                <appPart><rdgDesc>and ad. <rdg type="insert"><hi rend="lscaps">with a Child Antigonus</hi>, 
+                            <hi rend="italic">lords.</hi></rdg></rdgDesc>   
+                    <wit><siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps">bev3</siglum></wit>
+                </appPart>
+            </app>
         </note>
+        
+        
 
         <note type="textual" xml:id="tn_337" target="#tln_934">
             <label>934</label>
