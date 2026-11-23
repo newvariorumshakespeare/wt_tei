@@ -4988,9 +4988,9 @@
 
         <note type="textual" xml:id="tn_401-02" target="#tln_1145">
             <label display="all(invisible)">1145</label>
-            <app><lem><hi rend="italic">Enter Cleomines and Dion.</hi></lem>] <appPart><rdgDesc>Ad. 
+            <app><lem><hi rend="italic">Enter Cleomines and Dion.</hi></lem>] <appPart> 
                         <rdg type="replace"><head>SCENE, <hi rend="italic">a Part of Sicily near the Sea-side.</hi>
-                        </head><hi rend="italic">Enter Cleomines and Dion with Attendants.</hi></rdg></rdgDesc>
+                        </head><hi rend="italic">Enter Cleomines and Dion with Attendants.</hi></rdg>
                     <wit><siglum rend="smcaps">john</siglum>, <siglum>v1773</siglum></wit></appPart>; 
                 <appPart><rdg type="replace"><hi rend="italic">The same</hi> [i.e., Sicilia]. <hi rend="italic">A
                             Street in some Town. Enter Cleomines and Dion and an Attendant.</hi></rdg>
