@@ -1609,6 +1609,10 @@
               level="m">Works</title>. Pelican Sh., rev. Baltimore.</bibl>
           <date>1969</date>
         </witness>
+        
+        <witness xml:id="s_pel" corresp="#s_pel1 #s_pel2" display="book(suppress)">
+          <siglum rend="smcaps">pel</siglum>
+        </witness>
 
       </listWit>
 
