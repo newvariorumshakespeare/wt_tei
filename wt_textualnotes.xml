@@ -5077,13 +5077,12 @@
                     <rdg type="replace"><stage type="location"><hi rend="lscaps">Sicily.</hi></stage>
                         <hi rend="italic">Enter</hi> Leontes, <hi rend="italic">Lords,
                             Officers</hi>: Hermione, <hi rend="italic">as to her Trial, with</hi>
-                        Paulina <hi rend="italic">and Ladies</hi>
-                    </rdg>
+                        Paulina <hi rend="italic">and Ladies</hi></rdg>
                     <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; 
                 <appPart>
                         <rdg type="replace">SCENE <hi rend="italic">represents a Court of
                                 Justice.</hi> Leontes, 
-                            <hi rend="italic">Lords, and Officers, appear properly seated</hi></rdg>
+                            <hi rend="italic">Lords, and Officers, appear properly seated.</hi></rdg>
                     <wit><siglum rend="smcaps">theo1</siglum> &plus; (&minus;<siglum rend="smcaps"
                             >pel</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum
                             rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) (<hi
@@ -5092,8 +5091,8 @@
 
         <note type="textual" xml:id="tn_410" target="#tln_1174" targetEnd="#tln_1175">
             <label>1174–5</label>
-            <app><lem><hi rend="italic">Enter&hellip;Dion</hi></lem>] <appPart><rdg type="replace"
-                            ><hi rend="italic">Enter</hi> Leontes, <hi rend="italic">Lords,
+            <app><lem><hi rend="italic">Enter&hellip;Dion</hi></lem>] <appPart>
+                    <rdg type="replace"><hi rend="italic">Enter</hi> Leontes, <hi rend="italic">Lords,
                             Officers</hi>, Hermione, <hi rend="italic">as to her Trial, with</hi>
                         Paulina <hi rend="italic">and Ladies</hi></rdg>
                     <wit><siglum rend="smcaps">rowe</siglum></wit></appPart>; 
