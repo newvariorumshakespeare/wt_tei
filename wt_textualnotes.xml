@@ -5070,14 +5070,20 @@
                         >hud2</siglum></wit></appPart></app>
         </note>
 
-        <note type="textual" xml:id="tn_409" target="#tln_1174">
-            <label>1174</label>
-            <app><appPart><rdg type="insert"><stage type="location"><hi rend="lscaps"
-                            >Sicily.</hi></stage></rdg>
-                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; <appPart><rdgDesc><hi
-                            rend="italic">ad.</hi>
-                        <rdg type="insert">SCENE <hi rend="italic">represents a Court of
-                                Justice.</hi></rdg></rdgDesc>
+        <note type="textual" xml:id="tn_409" target="#tln_1174" targetEnd="#tln_1175">
+            <label>1174-5</label>
+            <app><appPart>
+                    <lem><hi rend="italic">Enter&hellip;Dion</hi></lem>]
+                    <rdg type="replace"><stage type="location"><hi rend="lscaps">Sicily.</hi></stage>
+                        <hi rend="italic">Enter</hi> Leontes, <hi rend="italic">Lords,
+                            Officers</hi>: Hermione, <hi rend="italic">as to her Trial, with</hi>
+                        Paulina <hi rend="italic">and Ladies</hi>
+                    </rdg>
+                    <wit><siglum rend="smcaps">pope</siglum></wit></appPart>; 
+                <appPart>
+                        <rdg type="replace">SCENE <hi rend="italic">represents a Court of
+                                Justice.</hi> Leontes, 
+                            <hi rend="italic">Lords, and Officers, appear properly seated</hi></rdg>
                     <wit><siglum rend="smcaps">theo1</siglum> &plus; (&minus;<siglum rend="smcaps"
                             >pel</siglum>, <siglum rend="smcaps">cln2</siglum>, <siglum
                             rend="smcaps">pen2</siglum>, <siglum rend="smcaps">oxf2</siglum>) (<hi
@@ -5090,11 +5096,11 @@
                             ><hi rend="italic">Enter</hi> Leontes, <hi rend="italic">Lords,
                             Officers</hi>, Hermione, <hi rend="italic">as to her Trial, with</hi>
                         Paulina <hi rend="italic">and Ladies</hi></rdg>
-                    <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
-                            >pope2</siglum></wit></appPart>; <appPart><rdg type="replace">Leontes,
-                            <hi rend="italic">Lords, and Officers, appear properly seated</hi></rdg>
-                    <wit><siglum rend="smcaps">theo1</siglum>&plus; (<hi rend="italic"
-                        >subst.</hi>)</wit></appPart></app>
+                    <wit><siglum rend="smcaps">rowe</siglum></wit></appPart>; 
+                <appPart><rdg type="replace">Leontes,<hi rend="italic">
+                            Lords, and Officers, appear properly seated</hi></rdg>
+                    <wit><siglum rend="smcaps">cln2</siglum>, <siglum rend="smcaps">oxf2</siglum>
+                        (<hi rend="italic">subst.</hi>)</wit></appPart></app>
         </note>
 
         <note type="textual" xml:id="tn_411-01" target="#tln_1176">
