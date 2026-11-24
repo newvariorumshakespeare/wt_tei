@@ -4603,10 +4603,11 @@
 
         <note type="textual" xml:id="tn_369-01" target="#tln_1055">
             <label>1055</label>
-            <app><lem>A better guiding spirit. What needs these hands?</lem>] <appPart><rdg type="replace"> A better-guiding spirit. What neede these hands?</rdg>
-                    <wit><ref targType="bibl" target="#b_walw1860"><name type="app"
-                            >walker</name></ref> (1860, 1:37) <hi rend="italic">conj.</hi>, <siglum
-                            rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">knt3</siglum>,
+            <app><lem>better guiding Spirit. What needs</lem>] 
+                <appPart><rdg type="replace">better-guiding spirit. What neede</rdg>
+                    <wit><ref targType="bibl" target="#b_walw1860">
+                            <name type="app">walker</name></ref> (1860, 1:37) <hi rend="italic">conj.</hi>, 
+                        <siglum rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">knt3</siglum>,
                             <siglum rend="smcaps">hud2</siglum></wit></appPart></app>
         </note>
 
@@ -4622,12 +4623,9 @@
         
         <note type="textual" xml:id="tn_369-03" target="#tln_1055">
             <label display="all(invisible)">1055</label>
-            <app><lem>A better guiding spirit. What needs these hands?</lem>] <appPart><rdg type="replace">A better-guiding spirit. What needs these hands?</rdg>
+            <app><lem>better guiding</lem>] <appPart><rdg type="replace">better-guiding</rdg>
                     <wit><siglum rend="smcaps">bul</siglum></wit></appPart></app>
         </note>
-        
-        
-        
 
         <note type="textual" xml:id="tn_370" target="#tln_1059">
             <label>1059</label>
